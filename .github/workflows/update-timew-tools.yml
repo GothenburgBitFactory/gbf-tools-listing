@@ -1,0 +1,54 @@
+# Update the Timewarrior tools listing.
+#
+name: Update Timewarrior Tools
+
+on:
+  schedule:
+    - cron: 0 2 * * *  # 02:00 UTC daily
+  workflow_dispatch:
+
+jobs:
+  update-tools:
+    if: ${{ github.repository_owner == 'GothenburgBitFactory' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: update-timew-tools
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+        with:
+          enable-cache: true
+
+      - name: Set up Python
+        run: uv python install 3.14
+
+      - name: Update tools
+        env:
+          GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
+          LOG_LEVEL: INFO
+        run: |
+          uv run bin/update.py --config timew/config.json timew/tools-data.json
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "GBF Tools Bot"
+          git config user.email "gbf-tools-bot@users.noreply.github.com"
+          git add timew/tools-data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Updated timew/tools-data.json"
+          for i in 1 2 3; do
+            git push origin main && exit 0
+            git pull --rebase origin main
+            sleep 10
+          done
