@@ -1,4 +1,9 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+#
+# /// script
+# requires-python = ">=3.10"
+# dependencies = ["PyGithub >= 2.9"]
+# ///
 
 from datetime import datetime, timezone
 import json
@@ -6,7 +11,7 @@ import os
 import sys
 import time
 from enum import IntEnum
-from github import Github, GithubException
+from github import Github, Auth, GithubException
 from json import JSONDecodeError
 
 
@@ -18,34 +23,20 @@ class LogLevel(IntEnum):
     ERROR = 4
 
 
-# Keywords used to search for projects
-TOPICS = [
-    "taskwarrior",
-    "taskwarrior2",
-    "taskwarrior3",
-    "taskserver"
-]
-
-# Categories for projects
-CATEGORIES = {
-    "taskd": ["taskserver"],
-    "taskserver": ["taskserver"],
-    "taskwarrior": ["taskwarrior2", "taskwarrior3"],
-    "taskwarrior2": ["taskwarrior2"],
-    "taskwarrior3": ["taskwarrior3"],
-}
-DEFAULT_CATEGORIES = [
-    "taskserver",
-    "taskwarrior2",
-]
+# Categories derived from repo topics, loaded from the config file's
+# `categoryMap`. The `"*"` entry (if present) provides the default categories
+# used when a repo's topics match no other entry.
+CATEGORIES = {}
+DEFAULT_CATEGORIES = []
 
 # The number of days at which point we consider a repository dormant (3 years)
 DAYS_DORMANT = 3 * 365
 
-# Repositories to always and never include
-SCRIPT_DIR = os.path.dirname(os.path.realpath(__file__))
-BLACKLIST_PATH = os.path.join(SCRIPT_DIR, "blacklist.json")
-INCLUDE_PATH = os.path.join(SCRIPT_DIR, "include.json")
+# Configuration loaded from the --config file. Populated in __main__ before
+# any of the data-loading functions are used.
+BLACKLIST_PATH = None
+INCLUDE_PATH = None
+TOPICS = []
 
 
 def log_message(message, *args, label=None):
@@ -90,9 +81,9 @@ def log_error(message, *args):
 
 def search_github(names, topics):
     """
-    Search GitHub for repos where `keyword` is contained in the description, name, or topic.
+    Search GitHub for repos where any of `topics` is set as a repository topic.
     """
-    client = Github(GITHUB_API_KEY)
+    client = Github(auth=Auth.Token(GITHUB_API_KEY))
 
     results = []
 
@@ -111,9 +102,9 @@ def search_github(names, topics):
         for repo in repos:
             if len(results) % 30 == 0:
                 rate_limits = client.get_rate_limit()
-                log_debug("Rate limits:\n- core: {}\n- search: {}", rate_limits.core, rate_limits.search)
+                log_debug("Rate limits:\n- core: {}\n- search: {}", rate_limits.resources.core, rate_limits.resources.search)
                 log_debug("Rate limits: {}", rate_limits.raw_data)
-                calculate_sleep_search(rate_limits)
+                calculate_sleep_search(rate_limits.resources)
 
             results.append(from_github_repo(repo))
             log_debug("Adding '{}' as {}/{}", repo.html_url, len(results), total)
@@ -270,8 +261,52 @@ def load_file(filepath):
         return dict()
 
 
+def load_config(config_path):
+    """
+    Load the config file and populate the module-level configuration globals
+    (BLACKLIST_PATH, INCLUDE_PATH, TOPICS, CATEGORIES, DEFAULT_CATEGORIES).
+
+    Relative paths in the config are resolved with respect to the directory
+    containing the config file.
+    """
+    config = load_file(config_path)
+    if not config:
+        log_error("Config file at '{}' is missing or empty", config_path)
+        exit(1)
+
+    required = ("blacklist", "includes", "keywords", "categoryMap")
+    missing = [k for k in required if k not in config]
+    if missing:
+        log_error("Config at '{}' is missing keys: {}", config_path, ", ".join(missing))
+        exit(1)
+
+    config_dir = os.path.dirname(os.path.realpath(config_path))
+
+    global BLACKLIST_PATH, INCLUDE_PATH, TOPICS, CATEGORIES, DEFAULT_CATEGORIES
+
+    BLACKLIST_PATH = os.path.join(config_dir, config["blacklist"])
+    INCLUDE_PATH = os.path.join(config_dir, config["includes"])
+    TOPICS = list(config["keywords"])
+
+    category_map = config["categoryMap"]
+    CATEGORIES.clear()
+    for topic, categories in category_map.items():
+        if topic == "*":
+            continue
+        CATEGORIES[topic] = list(categories)
+    DEFAULT_CATEGORIES.extend(category_map.get("*", []))
+
+    log_debug("Config loaded from '{}'", config_path)
+    log_debug("  blacklist:   {}", BLACKLIST_PATH)
+    log_debug("  includes:    {}", INCLUDE_PATH)
+    log_debug("  keywords:    {}", TOPICS)
+    log_debug("  categoryMap: {} entries, default: {}", len(CATEGORIES), DEFAULT_CATEGORIES)
+
+
 def usage():
-    return "USAGE: %s [output_file]\n\n  output_file - optional, defaults to stdout\n" % sys.argv[0]
+    return ("USAGE: %s --config <path/to/config.json> [output_file]\n\n"
+            "  --config <path>  - required, path to the config JSON file\n"
+            "  output_file      - optional, defaults to stdout\n") % sys.argv[0]
 
 
 if __name__ == "__main__":
@@ -283,18 +318,41 @@ if __name__ == "__main__":
         log_error("The environment variable GITHUB_API_KEY is not set!")
         exit(1)
 
+    config_path = None
     output = None
 
-    if len(sys.argv) == 1:
-        log_debug("Will write output to stdout")
-        output = sys.stdout
-    elif len(sys.argv) == 2:
-        log_debug("Will write output to {}", sys.argv[1])
-        output = open(sys.argv[1], mode="w")
-    else:
-        log_error("Too many arguments!")
+    args = sys.argv[1:]
+    while args:
+        arg = args.pop(0)
+        if arg == "--config":
+            if not args:
+                log_error("--config requires a value")
+                print(usage())
+                exit(1)
+            config_path = args.pop(0)
+        elif arg in ("-h", "--help"):
+            print(usage())
+            exit(0)
+        elif output is None:
+            output = arg
+        else:
+            log_error("Unexpected argument: {}", arg)
+            print(usage())
+            exit(1)
+
+    if not config_path:
+        log_error("--config is required")
         print(usage())
         exit(1)
+
+    load_config(config_path)
+
+    if output:
+        log_debug("Will write output to {}", output)
+        output = open(output, mode="w")
+    else:
+        log_debug("Will write output to stdout")
+        output = sys.stdout
 
     includes = load_file(INCLUDE_PATH)
     includes["github"] = [] if "github" not in includes else includes["github"]
@@ -303,10 +361,10 @@ if __name__ == "__main__":
     log_info("Updating tool listing...")
     log_info("Querying GitHub...")
     tools = search_github(includes["github"], TOPICS)
-    log_info("Filtering {} tools ...", len(tools))
-    tools = filter_tools(tools)
     log_info("Adding {} manual includes ...", len(includes["manual"]))
     tools.extend(includes["manual"])
+    log_info("Filtering {} tools ...", len(tools))
+    tools = filter_tools(tools)
     log_debug("Sorting tools...")
     tools.sort(key=lambda x: x.get("url") if x.get("url") is not None else "")
     log_info("Writing {} tools to {} ...", len(tools), output.name)

@@ -1,0 +1,9 @@
+{
+  "blacklist": "blacklist.json",
+  "includes": "include.json",
+  "keywords": ["timewarrior"],
+  "categoryMap": {
+    "timewarrior": ["timewarrior"],
+    "*": ["timewarrior"]
+  }
+}

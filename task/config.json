@@ -1,0 +1,13 @@
+{
+  "blacklist": "blacklist.json",
+  "includes": "include.json",
+  "keywords": ["taskwarrior", "taskwarrior2", "taskwarrior3", "taskserver"],
+  "categoryMap": {
+    "taskd": ["taskserver"],
+    "taskserver": ["taskserver"],
+    "taskwarrior": ["taskwarrior2", "taskwarrior3"],
+    "taskwarrior2": ["taskwarrior2"],
+    "taskwarrior3": ["taskwarrior3"],
+    "*": ["taskserver", "taskwarrior2"]
+  }
+}
