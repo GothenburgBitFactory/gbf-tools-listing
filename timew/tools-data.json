@@ -16,6 +16,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "timewarrior plugin to keep track of flexible time contracts",
     "dormant": true,
     "language": [
@@ -32,6 +35,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior extension that ranks the time spent on different tasks and generates a report.",
     "dormant": false,
     "language": [
@@ -48,6 +54,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Task/time management using TimeWarrior and friends with browser extensions for JIRA.",
     "dormant": true,
     "language": [
@@ -64,6 +73,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "TimSum is a python script that allows users to see their timewarrior's summary more beautifully",
     "dormant": false,
     "language": [
@@ -80,6 +92,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -96,6 +111,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -112,6 +130,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Render charts for your Time Warrior tag distribution",
     "dormant": false,
     "language": [
@@ -128,6 +149,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Python-based extension for Timewarrior that tracks actual time spent against defined monthly project allocations. It automatically calculates your monthly capacity based on your schedule, monitors progress via fixed hours or percentages, and ensures no time falls through the cracks.",
     "dormant": false,
     "language": [
@@ -144,6 +168,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Python-based extension for [Timewarrior](https://timewarrior.net/) that provides a detailed daily breakdown of work hours, holiday handling, and \"accumulated vs. projected\" totals to help you stay on track with your monthly goals.",
     "dormant": false,
     "language": [
@@ -160,6 +187,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Extension for Timewarrior.",
     "dormant": true,
     "language": [
@@ -176,6 +206,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Read-only mirror of https://gitlab.com/FoxAmes/timewarrior-jirapush",
     "dormant": true,
     "language": [
@@ -192,6 +225,28 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
+    "description": "Automatic listing of tools for Taskwarrior & Timewarrior",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "gbf-tools-listing",
+    "owner": [
+      "GothenburgBitFactory"
+    ],
+    "rating": 0,
+    "updated": "2026-08-16",
+    "url": "https://github.com/GothenburgBitFactory/gbf-tools-listing"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -208,6 +263,9 @@
   },
   {
     "archived": true,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Commandline UI for Timewarrior. Gives you a realtime overview of your tracking. Inspired by atsb/worklog ",
     "dormant": false,
     "language": [
@@ -224,6 +282,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -240,6 +301,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A COSMIC panel applet that lets you keep easy track of Timewarrior and Taskwarrior. Be sure to \u2b50 the repo. ",
     "dormant": false,
     "language": [
@@ -256,6 +320,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "An set of segments for powerline to display activities tracked by timewarrior",
     "dormant": true,
     "language": [
@@ -272,6 +339,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "MCP Server for interacting with TimeWarrior",
     "dormant": false,
     "language": [
@@ -288,6 +358,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Ansible role managing timewarrior installations on a machine.",
     "dormant": false,
     "language": [
@@ -304,6 +377,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Helpful TimeWarrior extensions",
     "dormant": false,
     "language": [
@@ -320,6 +396,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timesheet reporting using timewarrior",
     "dormant": false,
     "language": [
@@ -336,6 +415,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -352,6 +434,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "An i3blocks integration for timewarrior.",
     "dormant": true,
     "language": [
@@ -368,6 +453,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Extenstions for https://timewarrior.net/",
     "dormant": true,
     "language": [
@@ -384,6 +472,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Create Solidinvoice invoices from Timewarrior exports",
     "dormant": false,
     "language": [
@@ -400,6 +491,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A modern desktop GUI for Timewarrior (timew) built with Kotlin and Compose Multiplatform",
     "dormant": false,
     "language": [
@@ -416,6 +510,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Use timewarrior annotations as JSON stores.",
     "dormant": false,
     "language": [
@@ -432,6 +529,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -448,6 +548,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "My helper scripts for use with timewarrior ",
     "dormant": false,
     "language": [
@@ -464,6 +567,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extensions golang library",
     "dormant": false,
     "language": [
@@ -480,6 +586,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extensions for producing pandas dataframes.",
     "dormant": false,
     "language": [
@@ -496,6 +605,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Simple Timewarrior interface running on top of Xfce4's Genmon",
     "dormant": true,
     "language": [
@@ -512,6 +624,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "GUI application for presenting Timewarrior data on charts.",
     "dormant": true,
     "language": [
@@ -528,6 +643,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -544,6 +662,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -560,6 +681,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Script to synchronize timewarrior data with JIRA tempo",
     "dormant": true,
     "language": [
@@ -576,6 +700,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "TimeWarrior extension for uploading timelog to Jira Tempo ",
     "dormant": false,
     "language": [
@@ -592,6 +719,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "TimeWarrior Kaiten Push",
     "dormant": false,
     "language": [
@@ -608,6 +738,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "TimeWarrior TUI",
     "dormant": false,
     "language": [
@@ -624,6 +757,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "TimeWarrior extension for uploading timelog to YouTrack",
     "dormant": false,
     "language": [
@@ -640,6 +776,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Wrapper of timewarrior that makes it more human",
     "dormant": false,
     "language": [
@@ -656,6 +795,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "XFCE4 GenMon plugin: Time tracking widget with TimeWarrior",
     "dormant": false,
     "language": [
@@ -672,6 +814,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "An inofficial Android companion for TimeWarrior",
     "dormant": false,
     "language": [
@@ -688,6 +833,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "An extension for https://timewarrior.net/ that helps summarizing work hours/minutes spend on specific tags",
     "dormant": true,
     "language": [
@@ -704,6 +852,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Generate markdown reports for timewarrior",
     "dormant": false,
     "language": [
@@ -720,6 +871,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior Extension for Raycast",
     "dormant": false,
     "language": [
@@ -736,6 +890,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A command-line tool to manage todo list and record time spent on tasks.",
     "dormant": true,
     "language": [
@@ -752,6 +909,9 @@
   },
   {
     "archived": true,
+    "category": [
+      "timewarrior"
+    ],
     "description": "\u23f3 A Bash wrapper around the Timewarrior CLI that aims to improve its usability.",
     "dormant": true,
     "language": [
@@ -768,6 +928,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Pomodoro session runner with pomw + Taskwarrior + Timewarrior integration",
     "dormant": false,
     "language": [
@@ -784,6 +947,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Docker environment for taskwarrior/timewarrior/etc.",
     "dormant": false,
     "language": [
@@ -800,6 +966,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "bridge from Timewarrior to QuickBooks Time Tracking. Pre-alpha.",
     "dormant": false,
     "language": [
@@ -811,11 +980,14 @@
       "codehivetx"
     ],
     "rating": 3,
-    "updated": "2026-08-03",
+    "updated": "2026-08-15",
     "url": "https://github.com/codehivetx/goosebay"
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Timewarrior extension to calculate earliest start and latest end.",
     "dormant": false,
     "language": [
@@ -832,6 +1004,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extension to record time spent to gitlab",
     "dormant": false,
     "language": [
@@ -848,6 +1023,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extension to calculate total hours per day",
     "dormant": false,
     "language": [
@@ -864,6 +1042,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extension to calculate percentage of a particular tag on the day",
     "dormant": false,
     "language": [
@@ -880,6 +1061,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Timewarrior extension to calculate total time spent on each tag.",
     "dormant": false,
     "language": [
@@ -896,6 +1080,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Timewarrior extension to display total of tags in a tree (hierarchical) structure",
     "dormant": false,
     "language": [
@@ -912,6 +1099,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Repository that stores useful (at least for me) timewarrior extensions",
     "dormant": false,
     "language": [
@@ -928,6 +1118,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A go library to use as a base to write go extensions for Timewarrior",
     "dormant": false,
     "language": [
@@ -944,6 +1137,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A TUI for TimeWarrior",
     "dormant": false,
     "language": [
@@ -960,6 +1156,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extension to calculate the time spent in a work package (given a \"WP X..YZ ...\" in the first tag)",
     "dormant": false,
     "language": [
@@ -976,6 +1175,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Quickshell Timewarrior integration",
     "dormant": false,
     "language": [
@@ -992,6 +1194,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A TimeWarrior report to automate hours claiming",
     "dormant": true,
     "language": [
@@ -1008,6 +1213,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "timewarrior extension that prints the total length of time spent on each of the selected tags in the selected time frame.",
     "dormant": false,
     "language": [
@@ -1024,6 +1232,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Parses iCal ics files and formats them for use by timewarrior",
     "dormant": true,
     "language": [
@@ -1040,6 +1251,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Very simple report app to push timewarrior intervals to Jira Tempo",
     "dormant": true,
     "language": [
@@ -1056,6 +1270,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior extension focusing on data sync by using a FTP server and Rust",
     "dormant": true,
     "language": [
@@ -1072,6 +1289,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Docker Compose for Taskwarrior and Timewarrior",
     "dormant": false,
     "language": [
@@ -1088,6 +1308,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Run some timewarrior commands from neovim",
     "dormant": false,
     "language": [
@@ -1104,6 +1327,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Jira formatter (and sync) for TimeWarrior",
     "dormant": true,
     "language": [
@@ -1120,6 +1346,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A command line tool to enhance TimeWarrior's functionalities.",
     "dormant": true,
     "language": [
@@ -1136,6 +1365,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": " Uses data from taskwarrior and timewarrior to indicate which task should be done next ",
     "dormant": false,
     "language": [
@@ -1152,6 +1384,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Sync worklogs between multiple time trackers, invoicing, and bookkeeping software.",
     "dormant": false,
     "language": [
@@ -1168,6 +1403,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior plugin for neovim",
     "dormant": false,
     "language": [
@@ -1184,6 +1422,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Extend the functionality of timewarrior",
     "dormant": true,
     "language": [
@@ -1200,6 +1441,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "This extension create a link between taskwarrior and timewarrior that allows you to keep track of time spend on tasks. The time will be displayed in a new column in taskwarrior.",
     "dormant": true,
     "language": [
@@ -1216,6 +1460,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Alfred workflow for timewarrior",
     "dormant": true,
     "language": [
@@ -1232,6 +1479,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A polybar plugin to track timewarrior state",
     "dormant": true,
     "language": [
@@ -1248,6 +1498,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Get a balance between allotted and spent hours",
     "dormant": false,
     "language": [
@@ -1264,6 +1517,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "zsh completions for the timewarrior time tracking command line application",
     "dormant": false,
     "language": [
@@ -1280,6 +1536,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Just a helper timew script to facilitate my job",
     "dormant": false,
     "language": [
@@ -1296,6 +1555,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Neovim plugin inpired on the tasks obsidian plugin with integration to taskwarrior and timewarrior",
     "dormant": false,
     "language": [
@@ -1312,6 +1574,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Program to automatically upload timewarrior time entries to Celoxis API",
     "dormant": false,
     "language": [
@@ -1328,22 +1593,28 @@
   },
   {
     "archived": false,
-    "description": "macOS menu bar applet for TimeWarrior",
+    "category": [
+      "timewarrior"
+    ],
+    "description": "Ar\u00eate \u2014 Time Tracker, TimeWarrior for your macOS menu bar",
     "dormant": false,
     "language": [
       "Python"
     ],
     "license": "GNU General Public License v3.0",
-    "name": "TimeBar",
+    "name": "Arete",
     "owner": [
       "janfrode"
     ],
     "rating": 1,
-    "updated": "2026-08-14",
-    "url": "https://github.com/janfrode/TimeBar"
+    "updated": "2026-08-16",
+    "url": "https://github.com/janfrode/Arete"
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior extension for exporting activities to iCalendar files",
     "dormant": false,
     "language": [
@@ -1360,6 +1631,28 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
+    "description": "\u3010\u5df2\u5f52\u6863\u00b7\u91cd\u590d\u4ed3\u3011\u6b63\u8eab\u5728 jiadazhangment-cell/Timewarrior(\u672c\u5730 origin \u6240\u6307)\u3002\u672c\u4ed3\u4e3a 2026-08-09 \u8bef\u5efa\u7684\u540c\u5185\u5bb9\u5907\u4efd,\u5f52\u6863\u7559\u5b58\u3002",
+    "dormant": false,
+    "language": [
+      "JavaScript"
+    ],
+    "license": null,
+    "name": "TimeWarrior-Game",
+    "owner": [
+      "jiadazhangment-cell"
+    ],
+    "rating": 0,
+    "updated": "2026-08-09",
+    "url": "https://github.com/jiadazhangment-cell/TimeWarrior-Game"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A flextime extension to be used with timewarrior",
     "dormant": true,
     "language": [
@@ -1376,6 +1669,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "My Timewarrior Extensions",
     "dormant": true,
     "language": [
@@ -1392,6 +1688,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A self-tracking and task logging tool built in Bash for neurodivergent minds. Mensura helps you structure your day, track emotional rhythms, and gain insight into focus, mood, and energy \u2013 all in plain text and full local control.",
     "dormant": false,
     "language": [
@@ -1408,6 +1707,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Desktop overlay for Timewarrior showing tracking status, day totals, and start/stop controls",
     "dormant": false,
     "language": [
@@ -1424,6 +1726,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extension for power users, including an interactive TUI and a Go package for writing your own extensions.",
     "dormant": false,
     "language": [
@@ -1440,6 +1745,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Bash completion for Timewarrior",
     "dormant": false,
     "language": [
@@ -1456,6 +1764,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "An interface for Timewarrior report data",
     "dormant": false,
     "language": [
@@ -1472,6 +1783,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": " Systray app for pomodoro with taskwarrior ",
     "dormant": true,
     "language": [
@@ -1488,6 +1802,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "My timewarrior taskwarrior integration scripts",
     "dormant": true,
     "language": [
@@ -1504,6 +1821,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Timewarrior-based time tracker for mpv.",
     "dormant": false,
     "language": [
@@ -1520,6 +1840,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extension for management of working hours",
     "dormant": false,
     "language": [
@@ -1536,6 +1859,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Neovim plugin for automatic time tracking with timewarrior.",
     "dormant": false,
     "language": [
@@ -1552,6 +1878,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Terminal UI for timewarrior",
     "dormant": false,
     "language": [
@@ -1568,6 +1897,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "GUI for timewarrior ",
     "dormant": false,
     "language": [
@@ -1584,6 +1916,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarriror provider for german holidays from https://ipty.de/feiertag/",
     "dormant": true,
     "language": [
@@ -1600,6 +1935,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "run time warrior as a service using systemd",
     "dormant": true,
     "language": [
@@ -1616,6 +1954,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A simple script to migrate timer entries from timetrap to timewarrior.",
     "dormant": true,
     "language": [
@@ -1632,6 +1973,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -1648,6 +1992,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A mouse tracker that talks to time warrior",
     "dormant": true,
     "language": [
@@ -1664,6 +2011,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior Cheat Sheet",
     "dormant": true,
     "language": [
@@ -1680,6 +2030,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "sync timewarrior data to sawayo.de",
     "dormant": false,
     "language": [
@@ -1696,6 +2049,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "fish-completions for timewarrior / timew",
     "dormant": false,
     "language": [
@@ -1712,6 +2068,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -1728,6 +2087,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Extension for TimeWarrior for exporting data into Google Sheets",
     "dormant": true,
     "language": [
@@ -1744,6 +2106,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior wrapper to track time from the terminal",
     "dormant": false,
     "language": [
@@ -1760,6 +2125,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior extension to produce reports that collate durations for intervals with the same tags",
     "dormant": true,
     "language": [
@@ -1776,6 +2144,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior extension to list and restart recently tracked intervals with the help of fzf",
     "dormant": false,
     "language": [
@@ -1792,6 +2163,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A pomodoro timer interface for timewarrior",
     "dormant": true,
     "language": [
@@ -1808,6 +2182,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "fish plugin with timewarrior completions and functions",
     "dormant": false,
     "language": [
@@ -1824,6 +2201,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extension to get monthly overview in a tabbed format.",
     "dormant": false,
     "language": [
@@ -1840,6 +2220,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Taskwarrior and timewarrior widget for awesome",
     "dormant": true,
     "language": [
@@ -1856,6 +2239,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": " Fish completion for Timewarrior",
     "dormant": false,
     "language": [
@@ -1872,6 +2258,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior report to show a summary of hours for each day in a monthly calendar form. Shows how to use colours and other variables from timewarrior.cfg.",
     "dormant": false,
     "language": [
@@ -1888,6 +2277,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Helper scripts for TimeWarrior",
     "dormant": true,
     "language": [
@@ -1904,6 +2296,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Scripts for using TimeWarrior data for my job",
     "dormant": false,
     "language": [
@@ -1920,6 +2315,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A fork of the default on-modify hook from Taskwarrior to change how tags are transferred to Timewarrior.",
     "dormant": false,
     "language": [
@@ -1936,6 +2334,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Bash extension for Timewarrior to create csv with entry duration and a total",
     "dormant": true,
     "language": [
@@ -1952,6 +2353,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Clickable timewarrior integration for i3blocks with automatic pause/resume on system suspend and idle notifications",
     "dormant": false,
     "language": [
@@ -1968,6 +2372,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "timewarrior-aggregate is an extension for timewarrior which helps to plan a day and/or a week in advance and monitor the progress of the plan during the course of the duration.",
     "dormant": true,
     "language": [
@@ -1984,6 +2391,9 @@
   },
   {
     "archived": true,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extensions.",
     "dormant": true,
     "language": [
@@ -2000,6 +2410,9 @@
   },
   {
     "archived": true,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Get Timewarrior's total time per tag per week through a web API and page.",
     "dormant": true,
     "language": [
@@ -2016,6 +2429,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A small focused time tracker based on Tock.",
     "dormant": false,
     "language": [
@@ -2032,6 +2448,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extensions for smarter summaries and Dynamics/Zoho exports, tag mapping, and annotation handling.",
     "dormant": false,
     "language": [
@@ -2048,6 +2467,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -2064,6 +2486,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior -> Tempo (Jira) worklog uploader",
     "dormant": false,
     "language": [
@@ -2080,6 +2505,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "timew appindicator GUI and report extensions for timew-report",
     "dormant": false,
     "language": [
@@ -2096,6 +2524,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Create timesheet records for Kimai from Timewarrior records",
     "dormant": false,
     "language": [
@@ -2112,6 +2543,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A crate to build reports from Timewarrior's extension API",
     "dormant": true,
     "language": [
@@ -2128,6 +2562,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -2144,6 +2581,9 @@
   },
   {
     "archived": true,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Bugwarrior, Taskwarrior and Timewarrior integration with Serokell issue tracker and time tracking",
     "dormant": true,
     "language": [
@@ -2160,6 +2600,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "\u23f1\ufe0f Timewarrior report plugin \u23f3 for Timeduty \ud83d\udcc6",
     "dormant": true,
     "language": [
@@ -2176,6 +2619,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "python api for timewarrior, continued from original by @tjaartvdwalt",
     "dormant": false,
     "language": [
@@ -2192,6 +2638,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "taskwarrior+timewarrior wrapper interface, modify hook and convenience scripts",
     "dormant": false,
     "language": [
@@ -2208,6 +2657,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -2224,6 +2676,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Weekly timesheet report script for timewarrior",
     "dormant": true,
     "language": [
@@ -2240,6 +2695,9 @@
   },
   {
     "archived": true,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A PySimpleGUI based GUI for timewarrior for quick time entry",
     "dormant": true,
     "language": [
@@ -2256,6 +2714,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "zsh plugin for timewarrior",
     "dormant": false,
     "language": [
@@ -2272,6 +2733,9 @@
   },
   {
     "archived": true,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Timewarrior report extension for generating invoices in LaTeX",
     "dormant": true,
     "language": [
@@ -2288,6 +2752,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "An indicator for gnome-shell that shows the current activity tracked by timewarrior",
     "dormant": false,
     "language": [
@@ -2304,6 +2771,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior TypeScript bindings for Node",
     "dormant": true,
     "language": [
@@ -2320,6 +2790,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "The timewarrior synchronization client",
     "dormant": false,
     "language": [
@@ -2336,6 +2809,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "The timewarrior synchronization server",
     "dormant": false,
     "language": [
@@ -2352,6 +2828,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Categorize activities in ActivityWatch and export to Timewarrior",
     "dormant": false,
     "language": [
@@ -2368,6 +2847,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Various scripts and stuff",
     "dormant": false,
     "language": [
@@ -2384,6 +2866,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "This plugin plots the time you spent on a tag as a histogram.",
     "dormant": true,
     "language": [
@@ -2400,6 +2885,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -2416,6 +2904,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -2432,6 +2923,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Timewarrior report script for calculating billable hours.",
     "dormant": false,
     "language": [
@@ -2448,6 +2942,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior rust library",
     "dormant": false,
     "language": [
@@ -2464,6 +2961,9 @@
   },
   {
     "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior extension to report total time per week",
     "dormant": false,
     "language": [
