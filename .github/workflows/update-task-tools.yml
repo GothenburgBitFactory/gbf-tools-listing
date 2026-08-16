@@ -52,3 +52,5 @@ jobs:
             git pull --rebase origin main
             sleep 10
           done
+          echo "Could not push changes to repository!"
+          exit 1
