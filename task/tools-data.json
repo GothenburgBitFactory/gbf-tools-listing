@@ -3755,7 +3755,7 @@
     "owner": [
       "bergercookie"
     ],
-    "rating": 616,
+    "rating": 617,
     "updated": "2026-07-21",
     "url": "https://github.com/bergercookie/syncall"
   },
@@ -4217,7 +4217,7 @@
       "brokenpip3"
     ],
     "rating": 43,
-    "updated": "2026-08-16",
+    "updated": "2026-08-17",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -5215,7 +5215,7 @@
       "conda-forge"
     ],
     "rating": 0,
-    "updated": "2026-04-23",
+    "updated": "2026-08-18",
     "url": "https://github.com/conda-forge/taskwarrior-feedstock"
   },
   {
@@ -8736,7 +8736,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2107,
+    "rating": 2106,
     "updated": "2026-08-16",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -14591,7 +14591,7 @@
       "tschaefer"
     ],
     "rating": 5,
-    "updated": "2026-06-20",
+    "updated": "2026-08-17",
     "url": "https://github.com/tschaefer/taskwarrior-calendar"
   },
   {
@@ -15109,7 +15109,7 @@
     "owner": [
       "xnileshtiwari"
     ],
-    "rating": 13,
+    "rating": 12,
     "updated": "2026-08-06",
     "url": "https://github.com/xnileshtiwari/omarchy-waybar"
   },
