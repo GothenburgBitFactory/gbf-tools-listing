@@ -562,7 +562,7 @@
       "aibor"
     ],
     "rating": 2,
-    "updated": "2026-07-20",
+    "updated": "2026-08-17",
     "url": "https://github.com/aibor/timewarrior-extensions"
   },
   {
@@ -659,6 +659,25 @@
     "rating": 0,
     "updated": "2025-11-21",
     "url": "https://github.com/artnim/timewarrior-timesheet"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
+    "description": "UI tray for background running timewarrior",
+    "dormant": false,
+    "language": [
+      "C#"
+    ],
+    "license": "MIT License",
+    "name": "timew-tray",
+    "owner": [
+      "aspirio187"
+    ],
+    "rating": 0,
+    "updated": "2026-08-17",
+    "url": "https://github.com/aspirio187/timew-tray"
   },
   {
     "archived": false,
@@ -1588,7 +1607,7 @@
       "janfrode"
     ],
     "rating": 1,
-    "updated": "2026-08-16",
+    "updated": "2026-08-17",
     "url": "https://github.com/janfrode/Arete"
   },
   {
