@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-08-15",
+    "updated": "2026-08-18",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -4217,7 +4217,7 @@
       "brokenpip3"
     ],
     "rating": 43,
-    "updated": "2026-08-17",
+    "updated": "2026-08-18",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4476,8 +4476,8 @@
     "owner": [
       "catanadj"
     ],
-    "rating": 29,
-    "updated": "2026-08-13",
+    "rating": 30,
+    "updated": "2026-08-18",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -5235,7 +5235,7 @@
       "conda-forge"
     ],
     "rating": 0,
-    "updated": "2026-04-23",
+    "updated": "2026-08-18",
     "url": "https://github.com/conda-forge/taskwarrior-tui-feedstock"
   },
   {
@@ -8597,7 +8597,7 @@
       "jubnzv"
     ],
     "rating": 23,
-    "updated": "2026-01-24",
+    "updated": "2026-08-18",
     "url": "https://github.com/jubnzv/qtask"
   },
   {
@@ -8736,7 +8736,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2106,
+    "rating": 2107,
     "updated": "2026-08-16",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -13891,7 +13891,7 @@
       "szaffarano"
     ],
     "rating": 11,
-    "updated": "2026-04-28",
+    "updated": "2026-08-18",
     "url": "https://github.com/szaffarano/gotas"
   },
   {
@@ -14110,7 +14110,7 @@
     "owner": [
       "tbabej"
     ],
-    "rating": 914,
+    "rating": 915,
     "updated": "2025-06-14",
     "url": "https://github.com/tbabej/taskwiki"
   },
