@@ -424,6 +424,26 @@
   {
     "archived": false,
     "category": [
+      "taskwarrior2",
+      "taskwarrior3"
+    ],
+    "description": "Native Omarchy QuickShell plugin for Taskwarrior",
+    "dormant": false,
+    "language": [
+      "QML"
+    ],
+    "license": "MIT License",
+    "name": "omarchy-taskwarrior",
+    "owner": [
+      "AliSayyah"
+    ],
+    "rating": 0,
+    "updated": "2026-08-19",
+    "url": "https://github.com/AliSayyah/omarchy-taskwarrior"
+  },
+  {
+    "archived": false,
+    "category": [
       "taskserver",
       "taskwarrior2"
     ],
@@ -2245,7 +2265,7 @@
       "taskwarrior2"
     ],
     "description": "Ansible Role for installing and managing Taskwarrior.",
-    "dormant": false,
+    "dormant": true,
     "language": [
       "Shell"
     ],
@@ -4139,26 +4159,6 @@
     "rating": 0,
     "updated": "2018-03-19",
     "url": "https://github.com/bradyt/taskdsetup"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Integration with Notion tasks and Taskwarrior",
-    "dormant": false,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "not-warrior",
-    "owner": [
-      "bretwardjames"
-    ],
-    "rating": 0,
-    "updated": "2025-07-10",
-    "url": "https://github.com/bretwardjames/not-warrior"
   },
   {
     "archived": true,
@@ -6735,7 +6735,7 @@
       "ggascoigne"
     ],
     "rating": 0,
-    "updated": "2026-08-14",
+    "updated": "2026-08-19",
     "url": "https://github.com/ggascoigne/tw-mac"
   },
   {
@@ -13200,7 +13200,7 @@
       "taskwarrior2"
     ],
     "description": "The missing piece between browser and taskwarrior",
-    "dormant": true,
+    "dormant": false,
     "language": [
       "HTML"
     ],
@@ -13210,7 +13210,7 @@
       "shenlebantongying"
     ],
     "rating": 4,
-    "updated": "2022-08-08",
+    "updated": "2026-08-19",
     "url": "https://github.com/shenlebantongying/Taskwarrior-Connector"
   },
   {
@@ -14110,7 +14110,7 @@
     "owner": [
       "tbabej"
     ],
-    "rating": 915,
+    "rating": 916,
     "updated": "2025-06-14",
     "url": "https://github.com/tbabej/taskwiki"
   },
