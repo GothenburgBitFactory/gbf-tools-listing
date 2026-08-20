@@ -1607,7 +1607,7 @@
       "janfrode"
     ],
     "rating": 1,
-    "updated": "2026-08-18",
+    "updated": "2026-08-19",
     "url": "https://github.com/janfrode/Arete"
   },
   {
@@ -1951,6 +1951,25 @@
     "rating": 0,
     "updated": "2020-08-30",
     "url": "https://github.com/matt-snider/timetrap-timewarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
+    "description": null,
+    "dormant": false,
+    "language": [
+      "QML"
+    ],
+    "license": "MIT License",
+    "name": "omarchy-timewarrior",
+    "owner": [
+      "micdahl"
+    ],
+    "rating": 0,
+    "updated": "2026-08-19",
+    "url": "https://github.com/micdahl/omarchy-timewarrior"
   },
   {
     "archived": false,
@@ -2804,7 +2823,7 @@
       "timewarrior-synchronize"
     ],
     "rating": 59,
-    "updated": "2026-07-31",
+    "updated": "2026-08-19",
     "url": "https://github.com/timewarrior-synchronize/timew-sync-server"
   },
   {
