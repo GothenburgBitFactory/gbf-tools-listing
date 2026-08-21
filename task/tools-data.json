@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-08-18",
+    "updated": "2026-08-20",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -2395,8 +2395,28 @@
       "Wright4TheJob"
     ],
     "rating": 1,
-    "updated": "2026-08-12",
+    "updated": "2026-08-20",
     "url": "https://github.com/Wright4TheJob/taskwarrior-graph"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "A web-based GUI dashboard for TaskWarrior. It facilitates and gamifies task management with a built-in trophy system, motivating you to complete your daily tasks and long-term projects.",
+    "dormant": false,
+    "language": [
+      "HTML"
+    ],
+    "license": null,
+    "name": "Dashboard-TaskWarrior",
+    "owner": [
+      "Xhelper-sys"
+    ],
+    "rating": 0,
+    "updated": "2026-08-20",
+    "url": "https://github.com/Xhelper-sys/Dashboard-TaskWarrior"
   },
   {
     "archived": true,
@@ -4217,7 +4237,7 @@
       "brokenpip3"
     ],
     "rating": 43,
-    "updated": "2026-08-18",
+    "updated": "2026-08-20",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4477,7 +4497,7 @@
       "catanadj"
     ],
     "rating": 30,
-    "updated": "2026-08-18",
+    "updated": "2026-08-20",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -6714,7 +6734,7 @@
     "owner": [
       "garykl"
     ],
-    "rating": 35,
+    "rating": 34,
     "updated": "2021-04-13",
     "url": "https://github.com/garykl/task2dot"
   },
@@ -6730,13 +6750,13 @@
       "Swift"
     ],
     "license": "MIT License",
-    "name": "tw-mac",
+    "name": "taskhelm",
     "owner": [
       "ggascoigne"
     ],
     "rating": 0,
-    "updated": "2026-08-19",
-    "url": "https://github.com/ggascoigne/tw-mac"
+    "updated": "2026-08-20",
+    "url": "https://github.com/ggascoigne/taskhelm"
   },
   {
     "archived": false,
@@ -7347,7 +7367,7 @@
     "description": "Dockerized Taskwarrior WebUI",
     "dormant": false,
     "language": [
-      "HTML"
+      "Python"
     ],
     "license": null,
     "name": "TaskWarriorWebUI",
@@ -7355,7 +7375,7 @@
       "i-vt"
     ],
     "rating": 2,
-    "updated": "2026-06-06",
+    "updated": "2026-08-21",
     "url": "https://github.com/i-vt/TaskWarriorWebUI"
   },
   {
@@ -12002,26 +12022,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "Time management bot (wrapper around Taskwarrior)",
-    "dormant": true,
-    "language": [
-      "Perl"
-    ],
-    "license": "MIT License",
-    "name": "bot-tik-tok",
-    "owner": [
-      "perigrin"
-    ],
-    "rating": 0,
-    "updated": "2018-06-07",
-    "url": "https://github.com/perigrin/bot-tik-tok"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "Taskwarrior and timewarrior widget for awesome",
     "dormant": true,
     "language": [
@@ -12633,7 +12633,7 @@
       "rbowen"
     ],
     "rating": 0,
-    "updated": "2026-04-28",
+    "updated": "2026-08-20",
     "url": "https://github.com/rbowen/taskwarrior-mcp"
   },
   {
@@ -12834,26 +12834,6 @@
     "rating": 0,
     "updated": "2026-08-10",
     "url": "https://github.com/rsqb/dotfiles-taskwarrior"
-  },
-  {
-    "archived": true,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "A simple task parser for taskwarrior",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": "MIT License",
-    "name": "task-parser",
-    "owner": [
-      "rubenrubiob"
-    ],
-    "rating": 0,
-    "updated": "2016-05-08",
-    "url": "https://github.com/rubenrubiob/task-parser"
   },
   {
     "archived": false,
@@ -15354,6 +15334,26 @@
     "rating": 0,
     "updated": "2022-10-02",
     "url": "https://github.com/zhurai/taskwarrior-scripts"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "Taskwarrior-backed task list for Noctalia (pending-only panel + bar widget, serialized queue, POSIX-quoted CLI)",
+    "dormant": false,
+    "language": [
+      "Luau"
+    ],
+    "license": "MIT License",
+    "name": "noctalia-plugin-taskwarrior",
+    "owner": [
+      "zochari"
+    ],
+    "rating": 0,
+    "updated": "2026-08-20",
+    "url": "https://github.com/zochari/noctalia-plugin-taskwarrior"
   },
   {
     "archived": false,
