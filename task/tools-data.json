@@ -217,7 +217,7 @@
     "owner": [
       "8ware"
     ],
-    "rating": 71,
+    "rating": 70,
     "updated": "2018-12-08",
     "url": "https://github.com/8ware/task-dashboard"
   },
@@ -438,7 +438,7 @@
       "AliSayyah"
     ],
     "rating": 0,
-    "updated": "2026-08-19",
+    "updated": "2026-08-21",
     "url": "https://github.com/AliSayyah/omarchy-taskwarrior"
   },
   {
@@ -777,7 +777,7 @@
     "owner": [
       "DCsunset"
     ],
-    "rating": 255,
+    "rating": 256,
     "updated": "2024-12-31",
     "url": "https://github.com/DCsunset/taskwarrior-webui"
   },
@@ -1137,7 +1137,7 @@
       "Gabz-Araujo"
     ],
     "rating": 0,
-    "updated": "2026-07-30",
+    "updated": "2026-08-21",
     "url": "https://github.com/Gabz-Araujo/taskwarrior-mcp"
   },
   {
@@ -1156,7 +1156,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 819,
+    "rating": 818,
     "updated": "2026-08-04",
     "url": "https://github.com/GothenburgBitFactory/bugwarrior"
   },
@@ -3795,7 +3795,7 @@
     "owner": [
       "bergercookie"
     ],
-    "rating": 617,
+    "rating": 616,
     "updated": "2026-07-21",
     "url": "https://github.com/bergercookie/syncall"
   },
@@ -4035,7 +4035,7 @@
     "owner": [
       "blampe"
     ],
-    "rating": 97,
+    "rating": 96,
     "updated": "2023-04-04",
     "url": "https://github.com/blampe/taskwarrior-reminders"
   },
@@ -4055,7 +4055,7 @@
     "owner": [
       "blindFS"
     ],
-    "rating": 533,
+    "rating": 532,
     "updated": "2019-05-22",
     "url": "https://github.com/blindFS/vim-taskwarrior"
   },
@@ -4497,7 +4497,7 @@
       "catanadj"
     ],
     "rating": 30,
-    "updated": "2026-08-20",
+    "updated": "2026-08-21",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -4834,7 +4834,7 @@
     "owner": [
       "cinatic"
     ],
-    "rating": 151,
+    "rating": 150,
     "updated": "2024-09-24",
     "url": "https://github.com/cinatic/taskwhisperer"
   },
@@ -4975,7 +4975,7 @@
       "coalwater"
     ],
     "rating": 0,
-    "updated": "2026-07-17",
+    "updated": "2026-08-21",
     "url": "https://github.com/coalwater/tdo"
   },
   {
@@ -5114,7 +5114,7 @@
     "owner": [
       "coddingtonbear"
     ],
-    "rating": 305,
+    "rating": 304,
     "updated": "2022-08-08",
     "url": "https://github.com/coddingtonbear/taskwarrior-pomodoro"
   },
@@ -6621,8 +6621,8 @@
   {
     "archived": false,
     "category": [
-      "taskserver",
-      "taskwarrior2"
+      "taskwarrior2",
+      "taskwarrior3"
     ],
     "description": "Web interface for TaskWarrior",
     "dormant": false,
@@ -6814,7 +6814,7 @@
     "owner": [
       "gkssjovi"
     ],
-    "rating": 41,
+    "rating": 40,
     "updated": "2022-11-08",
     "url": "https://github.com/gkssjovi/trackwarrior"
   },
@@ -8536,7 +8536,7 @@
     "owner": [
       "jschlatow"
     ],
-    "rating": 433,
+    "rating": 432,
     "updated": "2026-05-21",
     "url": "https://github.com/jschlatow/taskopen"
   },
@@ -8756,7 +8756,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2107,
+    "rating": 2108,
     "updated": "2026-08-16",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -9035,7 +9035,7 @@
     "owner": [
       "kostajh"
     ],
-    "rating": 146,
+    "rating": 145,
     "updated": "2021-05-19",
     "url": "https://github.com/kostajh/taskwarrior-time-tracking-hook"
   },
@@ -11142,26 +11142,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "taskwarrior inspired caldav backed todo manager.",
-    "dormant": false,
-    "language": [
-      "Python"
-    ],
-    "license": "MIT License",
-    "name": "tdo",
-    "owner": [
-      "mvcisback"
-    ],
-    "rating": 0,
-    "updated": "2026-03-21",
-    "url": "https://github.com/mvcisback/tdo"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "A tool to interact with taskwarrior quicklky",
     "dormant": true,
     "language": [
@@ -12836,6 +12816,26 @@
     "url": "https://github.com/rsqb/dotfiles-taskwarrior"
   },
   {
+    "archived": true,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "A simple task parser for taskwarrior",
+    "dormant": true,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "task-parser",
+    "owner": [
+      "rubenrubiob"
+    ],
+    "rating": 0,
+    "updated": "2016-05-08",
+    "url": "https://github.com/rubenrubiob/task-parser"
+  },
+  {
     "archived": false,
     "category": [
       "taskwarrior2",
@@ -13871,7 +13871,7 @@
       "szaffarano"
     ],
     "rating": 11,
-    "updated": "2026-08-18",
+    "updated": "2026-08-21",
     "url": "https://github.com/szaffarano/gotas"
   },
   {
@@ -14090,7 +14090,7 @@
     "owner": [
       "tbabej"
     ],
-    "rating": 916,
+    "rating": 915,
     "updated": "2025-06-14",
     "url": "https://github.com/tbabej/taskwiki"
   },
@@ -14830,7 +14830,7 @@
     "owner": [
       "vit-project"
     ],
-    "rating": 580,
+    "rating": 579,
     "updated": "2026-03-17",
     "url": "https://github.com/vit-project/vit"
   },
