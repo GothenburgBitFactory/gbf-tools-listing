@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-08-20",
+    "updated": "2026-08-23",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -617,7 +617,7 @@
       "CCExtractor"
     ],
     "rating": 244,
-    "updated": "2026-08-22",
+    "updated": "2026-08-23",
     "url": "https://github.com/CCExtractor/taskwarrior-flutter"
   },
   {
@@ -1455,7 +1455,7 @@
       "KaiErikNiermann"
     ],
     "rating": 0,
-    "updated": "2026-08-16",
+    "updated": "2026-08-23",
     "url": "https://github.com/KaiErikNiermann/taskwarrior-mcp"
   },
   {
@@ -2415,7 +2415,7 @@
       "Xhelper-sys"
     ],
     "rating": 0,
-    "updated": "2026-08-22",
+    "updated": "2026-08-23",
     "url": "https://github.com/Xhelper-sys/Dashboard-TaskWarrior"
   },
   {
@@ -4237,7 +4237,7 @@
       "brokenpip3"
     ],
     "rating": 43,
-    "updated": "2026-08-20",
+    "updated": "2026-08-23",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4497,7 +4497,7 @@
       "catanadj"
     ],
     "rating": 30,
-    "updated": "2026-08-22",
+    "updated": "2026-08-23",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -4675,7 +4675,7 @@
     "owner": [
       "charm-and-friends"
     ],
-    "rating": 145,
+    "rating": 144,
     "updated": "2025-06-04",
     "url": "https://github.com/charm-and-friends/taskcli"
   },
@@ -5897,6 +5897,26 @@
     "rating": 5,
     "updated": "2017-06-08",
     "url": "https://github.com/dropofwill/rtasklib"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "Make tasks to track a particular channels youtube videos. Mainly for learning.",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "GNU General Public License v3.0",
+    "name": "youtube_taskwarrior",
+    "owner": [
+      "duallain"
+    ],
+    "rating": 0,
+    "updated": "2026-08-23",
+    "url": "https://github.com/duallain/youtube_taskwarrior"
   },
   {
     "archived": false,
@@ -8757,7 +8777,7 @@
       "kdheepak"
     ],
     "rating": 2109,
-    "updated": "2026-08-16",
+    "updated": "2026-08-23",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
   {
@@ -13510,7 +13530,7 @@
       "snonux"
     ],
     "rating": 2,
-    "updated": "2026-08-22",
+    "updated": "2026-08-23",
     "url": "https://github.com/snonux/tasksamurai"
   },
   {
