@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-08-23",
+    "updated": "2026-08-24",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -617,7 +617,7 @@
       "CCExtractor"
     ],
     "rating": 244,
-    "updated": "2026-08-23",
+    "updated": "2026-08-24",
     "url": "https://github.com/CCExtractor/taskwarrior-flutter"
   },
   {
@@ -2415,7 +2415,7 @@
       "Xhelper-sys"
     ],
     "rating": 0,
-    "updated": "2026-08-23",
+    "updated": "2026-08-24",
     "url": "https://github.com/Xhelper-sys/Dashboard-TaskWarrior"
   },
   {
@@ -4237,7 +4237,7 @@
       "brokenpip3"
     ],
     "rating": 43,
-    "updated": "2026-08-23",
+    "updated": "2026-08-24",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4497,7 +4497,7 @@
       "catanadj"
     ],
     "rating": 30,
-    "updated": "2026-08-23",
+    "updated": "2026-08-24",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -6654,7 +6654,7 @@
     "owner": [
       "furan917"
     ],
-    "rating": 4,
+    "rating": 5,
     "updated": "2026-05-21",
     "url": "https://github.com/furan917/taskwarrior-web-portal"
   },
@@ -8556,7 +8556,7 @@
     "owner": [
       "jschlatow"
     ],
-    "rating": 432,
+    "rating": 433,
     "updated": "2026-05-21",
     "url": "https://github.com/jschlatow/taskopen"
   },
@@ -8716,7 +8716,7 @@
     "owner": [
       "kantord"
     ],
-    "rating": 226,
+    "rating": 227,
     "updated": "2026-08-12",
     "url": "https://github.com/kantord/blogtato"
   },
@@ -11375,26 +11375,6 @@
     "rating": 5,
     "updated": "2020-09-13",
     "url": "https://github.com/neingeist/mail2taskwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Delete overdue, recurring & duplicate taskwarrior tasks",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "task-recurring-delete",
-    "owner": [
-      "neingeist"
-    ],
-    "rating": 0,
-    "updated": "2021-11-27",
-    "url": "https://github.com/neingeist/task-recurring-delete"
   },
   {
     "archived": true,
@@ -15013,6 +14993,26 @@
     "rating": 0,
     "updated": "2025-04-18",
     "url": "https://github.com/wlbirula/taskwarrior-extras"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "  Taskwarrior - Command line Task Management",
+    "dormant": false,
+    "language": [
+      "N/A"
+    ],
+    "license": null,
+    "name": "taskwarrior",
+    "owner": [
+      "x-cmd-install"
+    ],
+    "rating": 0,
+    "updated": "2026-08-24",
+    "url": "https://github.com/x-cmd-install/taskwarrior"
   },
   {
     "archived": true,
