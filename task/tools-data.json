@@ -2515,7 +2515,7 @@
       "Zebradil"
     ],
     "rating": 74,
-    "updated": "2026-08-11",
+    "updated": "2026-08-27",
     "url": "https://github.com/Zebradil/powerline-taskwarrior"
   },
   {
@@ -4237,7 +4237,7 @@
       "brokenpip3"
     ],
     "rating": 43,
-    "updated": "2026-08-25",
+    "updated": "2026-08-26",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4437,7 +4437,7 @@
       "catanadj"
     ],
     "rating": 9,
-    "updated": "2026-07-27",
+    "updated": "2026-08-27",
     "url": "https://github.com/catanadj/taskwarrior-SCALPEL"
   },
   {
@@ -4497,7 +4497,7 @@
       "catanadj"
     ],
     "rating": 29,
-    "updated": "2026-08-25",
+    "updated": "2026-08-27",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -6764,6 +6764,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": null,
+    "dormant": true,
+    "language": [
+      "TypeScript"
+    ],
+    "license": null,
+    "name": "taskwarrior-ionic",
+    "owner": [
+      "georgioghazzi"
+    ],
+    "rating": 0,
+    "updated": "2023-01-07",
+    "url": "https://github.com/georgioghazzi/taskwarrior-ionic"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": "A native macOS companion for Taskwarrior",
     "dormant": false,
     "language": [
@@ -6777,26 +6797,6 @@
     "rating": 0,
     "updated": "2026-08-20",
     "url": "https://github.com/ggascoigne/taskhelm"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": null,
-    "dormant": true,
-    "language": [
-      "TypeScript"
-    ],
-    "license": null,
-    "name": "taskwarrior-ionic",
-    "owner": [
-      "ggzica"
-    ],
-    "rating": 0,
-    "updated": "2023-01-07",
-    "url": "https://github.com/ggzica/taskwarrior-ionic"
   },
   {
     "archived": false,
@@ -10334,7 +10334,7 @@
       "maxjoehnk"
     ],
     "rating": 27,
-    "updated": "2026-08-15",
+    "updated": "2026-08-26",
     "url": "https://github.com/maxjoehnk/sidenotes"
   },
   {
