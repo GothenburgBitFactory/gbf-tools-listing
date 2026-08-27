@@ -627,18 +627,18 @@
     "category": [
       "timewarrior"
     ],
-    "description": null,
+    "description": "Track time without leaving Neovim.",
     "dormant": false,
     "language": [
       "Lua"
     ],
-    "license": null,
+    "license": "MIT License",
     "name": "timewarrior.nvim",
     "owner": [
       "aquaherd"
     ],
     "rating": 0,
-    "updated": "2026-03-23",
+    "updated": "2026-08-26",
     "url": "https://github.com/aquaherd/timewarrior.nvim"
   },
   {
@@ -2823,7 +2823,7 @@
       "timewarrior-synchronize"
     ],
     "rating": 59,
-    "updated": "2026-08-24",
+    "updated": "2026-08-26",
     "url": "https://github.com/timewarrior-synchronize/timew-sync-server"
   },
   {
