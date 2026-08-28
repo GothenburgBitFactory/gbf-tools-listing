@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-08-24",
+    "updated": "2026-08-27",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -1157,7 +1157,7 @@
       "GothenburgBitFactory"
     ],
     "rating": 818,
-    "updated": "2026-08-04",
+    "updated": "2026-08-27",
     "url": "https://github.com/GothenburgBitFactory/bugwarrior"
   },
   {
@@ -4236,8 +4236,8 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 43,
-    "updated": "2026-08-26",
+    "rating": 44,
+    "updated": "2026-08-27",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4497,7 +4497,7 @@
       "catanadj"
     ],
     "rating": 29,
-    "updated": "2026-08-27",
+    "updated": "2026-08-28",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -6795,7 +6795,7 @@
       "ggascoigne"
     ],
     "rating": 0,
-    "updated": "2026-08-20",
+    "updated": "2026-08-27",
     "url": "https://github.com/ggascoigne/taskhelm"
   },
   {
@@ -7295,7 +7295,7 @@
       "huantrinh1802"
     ],
     "rating": 94,
-    "updated": "2026-02-23",
+    "updated": "2026-08-28",
     "url": "https://github.com/huantrinh1802/m_taskwarrior_d.nvim"
   },
   {
@@ -8616,7 +8616,7 @@
     "owner": [
       "jubnzv"
     ],
-    "rating": 35,
+    "rating": 36,
     "updated": "2023-07-16",
     "url": "https://github.com/jubnzv/go-taskwarrior"
   },
@@ -8776,7 +8776,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2110,
+    "rating": 2113,
     "updated": "2026-08-23",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -10334,7 +10334,7 @@
       "maxjoehnk"
     ],
     "rating": 27,
-    "updated": "2026-08-26",
+    "updated": "2026-08-27",
     "url": "https://github.com/maxjoehnk/sidenotes"
   },
   {
@@ -10434,7 +10434,7 @@
       "me-and"
     ],
     "rating": 0,
-    "updated": "2026-07-29",
+    "updated": "2026-08-28",
     "url": "https://github.com/me-and/asmodeus"
   },
   {
@@ -13951,7 +13951,7 @@
       "taskdroid"
     ],
     "rating": 22,
-    "updated": "2026-08-16",
+    "updated": "2026-08-28",
     "url": "https://github.com/taskdroid/taskdroid"
   },
   {
@@ -15011,7 +15011,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-08-24",
+    "updated": "2026-08-28",
     "url": "https://github.com/x-cmd-install/taskwarrior"
   },
   {
@@ -15031,7 +15031,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-08-25",
+    "updated": "2026-08-28",
     "url": "https://github.com/x-cmd-install/taskwarrior-tui"
   },
   {
