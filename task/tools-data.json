@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-08-27",
+    "updated": "2026-08-28",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -257,7 +257,7 @@
     "owner": [
       "8ware"
     ],
-    "rating": 7,
+    "rating": 6,
     "updated": "2015-12-23",
     "url": "https://github.com/8ware/task-history-git"
   },
@@ -4497,7 +4497,7 @@
       "catanadj"
     ],
     "rating": 29,
-    "updated": "2026-08-28",
+    "updated": "2026-08-29",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -8776,7 +8776,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2113,
+    "rating": 2114,
     "updated": "2026-08-23",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -9215,7 +9215,7 @@
     "owner": [
       "kvj"
     ],
-    "rating": 12,
+    "rating": 11,
     "updated": "2017-05-24",
     "url": "https://github.com/kvj/TaskwarriorC2"
   },
@@ -15011,7 +15011,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-08-28",
+    "updated": "2026-08-29",
     "url": "https://github.com/x-cmd-install/taskwarrior"
   },
   {
@@ -15031,7 +15031,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-08-28",
+    "updated": "2026-08-29",
     "url": "https://github.com/x-cmd-install/taskwarrior-tui"
   },
   {
