@@ -157,7 +157,7 @@
     "owner": [
       "0xErwin1"
     ],
-    "rating": 10,
+    "rating": 9,
     "updated": "2026-01-05",
     "url": "https://github.com/0xErwin1/taskwarrior-gpui"
   },
@@ -1156,7 +1156,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 818,
+    "rating": 819,
     "updated": "2026-08-27",
     "url": "https://github.com/GothenburgBitFactory/bugwarrior"
   },
@@ -2395,7 +2395,7 @@
       "Wright4TheJob"
     ],
     "rating": 1,
-    "updated": "2026-08-20",
+    "updated": "2026-09-01",
     "url": "https://github.com/Wright4TheJob/taskwarrior-graph"
   },
   {
@@ -7354,7 +7354,7 @@
     "owner": [
       "humblehacker"
     ],
-    "rating": 63,
+    "rating": 62,
     "updated": "2014-05-15",
     "url": "https://github.com/humblehacker/taskwarrior-ios"
   },
@@ -8556,7 +8556,7 @@
     "owner": [
       "jschlatow"
     ],
-    "rating": 433,
+    "rating": 434,
     "updated": "2026-05-21",
     "url": "https://github.com/jschlatow/taskopen"
   },
@@ -8776,7 +8776,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2115,
+    "rating": 2117,
     "updated": "2026-08-30",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -10056,7 +10056,7 @@
       "marriagav"
     ],
     "rating": 78,
-    "updated": "2026-08-09",
+    "updated": "2026-08-31",
     "url": "https://github.com/marriagav/taskchamp"
   },
   {
@@ -10383,39 +10383,19 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "Mirror of https://github.com/awwaiid/mcp-server-taskwarrior",
-    "dormant": false,
-    "language": [
-      "N/A"
-    ],
-    "license": "MIT License",
-    "name": "awwaiid_mcp-server-taskwarrior",
-    "owner": [
-      "mcpflow"
-    ],
-    "rating": 0,
-    "updated": "2025-03-23",
-    "url": "https://github.com/mcpflow/awwaiid_mcp-server-taskwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "A simple MCP Server for Taskwarrior",
     "dormant": false,
     "language": [
       "N/A"
     ],
     "license": null,
-    "name": "mcp-taskwarrior",
+    "name": "0xbeedao__mcp-taskwarrior",
     "owner": [
-      "mcpflow"
+      "mcp-research"
     ],
     "rating": 0,
     "updated": "2025-03-12",
-    "url": "https://github.com/mcpflow/mcp-taskwarrior"
+    "url": "https://github.com/mcp-research/0xbeedao__mcp-taskwarrior"
   },
   {
     "archived": false,
@@ -15011,7 +14991,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-08-31",
+    "updated": "2026-09-01",
     "url": "https://github.com/x-cmd-install/taskwarrior"
   },
   {
@@ -15031,7 +15011,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-08-31",
+    "updated": "2026-09-01",
     "url": "https://github.com/x-cmd-install/taskwarrior-tui"
   },
   {
