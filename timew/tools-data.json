@@ -2261,6 +2261,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "Generate timesheets and invoices from timewarrior activities",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": null,
+    "name": "timeslip",
+    "owner": [
+      "pigmonkey"
+    ],
+    "rating": 0,
+    "updated": "2026-09-01",
+    "url": "https://github.com/pigmonkey/timeslip"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A timewarrior report to show a summary of hours for each day in a monthly calendar form. Shows how to use colours and other variables from timewarrior.cfg.",
     "dormant": false,
     "language": [
@@ -2519,7 +2538,7 @@
       "sarnold"
     ],
     "rating": 2,
-    "updated": "2026-08-11",
+    "updated": "2026-09-01",
     "url": "https://github.com/sarnold/timew-addons"
   },
   {
