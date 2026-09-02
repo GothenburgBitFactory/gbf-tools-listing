@@ -1335,7 +1335,7 @@
       "HusnainTaseer"
     ],
     "rating": 2,
-    "updated": "2025-12-24",
+    "updated": "2026-09-02",
     "url": "https://github.com/HusnainTaseer/taskwarrior-ui"
   },
   {
@@ -3385,6 +3385,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": null,
+    "dormant": false,
+    "language": [
+      "JavaScript"
+    ],
+    "license": null,
+    "name": "studentTaskserver",
+    "owner": [
+      "archanap807"
+    ],
+    "rating": 0,
+    "updated": "2026-09-01",
+    "url": "https://github.com/archanap807/studentTaskserver"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": "taskwarrior blocks: attribute for inverse dependencies",
     "dormant": true,
     "language": [
@@ -3795,7 +3815,7 @@
     "owner": [
       "bergercookie"
     ],
-    "rating": 617,
+    "rating": 618,
     "updated": "2026-07-21",
     "url": "https://github.com/bergercookie/syncall"
   },
@@ -4497,7 +4517,7 @@
       "catanadj"
     ],
     "rating": 29,
-    "updated": "2026-08-31",
+    "updated": "2026-09-02",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -7007,26 +7027,6 @@
     "description": null,
     "dormant": false,
     "language": [
-      "Pascal"
-    ],
-    "license": null,
-    "name": "TaskServer",
-    "owner": [
-      "gurubharathm-pdi"
-    ],
-    "rating": 0,
-    "updated": "2026-01-09",
-    "url": "https://github.com/gurubharathm-pdi/TaskServer"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": null,
-    "dormant": false,
-    "language": [
       "HTML"
     ],
     "license": null,
@@ -7037,26 +7037,6 @@
     "rating": 0,
     "updated": "2026-03-26",
     "url": "https://github.com/hafizHanif02/TaskWarrior_wirefram"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": null,
-    "dormant": false,
-    "language": [
-      "JavaScript"
-    ],
-    "license": null,
-    "name": "taskserver",
-    "owner": [
-      "hakeem4292"
-    ],
-    "rating": 0,
-    "updated": "2026-01-07",
-    "url": "https://github.com/hakeem4292/taskserver"
   },
   {
     "archived": false,
@@ -7853,7 +7833,7 @@
     "owner": [
       "jacostag"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2025-06-18",
     "url": "https://github.com/jacostag/taskwarrior-ulauncher"
   },
@@ -8776,7 +8756,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2117,
+    "rating": 2118,
     "updated": "2026-08-30",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -11357,6 +11337,26 @@
     "url": "https://github.com/neingeist/mail2taskwarrior"
   },
   {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "Delete overdue, recurring & duplicate taskwarrior tasks",
+    "dormant": true,
+    "language": [
+      "Python"
+    ],
+    "license": null,
+    "name": "task-recurring-delete",
+    "owner": [
+      "neingeist"
+    ],
+    "rating": 0,
+    "updated": "2021-11-27",
+    "url": "https://github.com/neingeist/task-recurring-delete"
+  },
+  {
     "archived": true,
     "category": [
       "taskwarrior2",
@@ -13299,26 +13299,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": null,
-    "dormant": true,
-    "language": [
-      "JavaScript"
-    ],
-    "license": null,
-    "name": "taskwarrior-app",
-    "owner": [
-      "simonwjackson"
-    ],
-    "rating": 0,
-    "updated": "2020-06-11",
-    "url": "https://github.com/simonwjackson/taskwarrior-app"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "Migrate tasks out of online services",
     "dormant": true,
     "language": [
@@ -14991,7 +14971,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-09-01",
+    "updated": "2026-09-02",
     "url": "https://github.com/x-cmd-install/taskwarrior"
   },
   {
@@ -15011,7 +14991,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-09-01",
+    "updated": "2026-09-02",
     "url": "https://github.com/x-cmd-install/taskwarrior-tui"
   },
   {
