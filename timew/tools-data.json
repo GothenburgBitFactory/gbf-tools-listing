@@ -1398,7 +1398,7 @@
       "gabor-boros"
     ],
     "rating": 31,
-    "updated": "2024-06-14",
+    "updated": "2026-09-03",
     "url": "https://github.com/gabor-boros/minutes"
   },
   {
@@ -1853,7 +1853,7 @@
     "owner": [
       "luisfer-cli"
     ],
-    "rating": 3,
+    "rating": 4,
     "updated": "2025-08-10",
     "url": "https://github.com/luisfer-cli/autotrack.nvim"
   },
