@@ -4257,7 +4257,7 @@
       "brokenpip3"
     ],
     "rating": 46,
-    "updated": "2026-09-02",
+    "updated": "2026-09-03",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4517,7 +4517,7 @@
       "catanadj"
     ],
     "rating": 29,
-    "updated": "2026-09-02",
+    "updated": "2026-09-03",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -13490,7 +13490,7 @@
       "snonux"
     ],
     "rating": 2,
-    "updated": "2026-08-23",
+    "updated": "2026-09-03",
     "url": "https://github.com/snonux/tasksamurai"
   },
   {
@@ -13970,7 +13970,7 @@
     "owner": [
       "taskvanguard"
     ],
-    "rating": 43,
+    "rating": 44,
     "updated": "2026-02-07",
     "url": "https://github.com/taskvanguard/taskvanguard"
   },
@@ -14050,7 +14050,7 @@
     "owner": [
       "tbabej"
     ],
-    "rating": 916,
+    "rating": 915,
     "updated": "2025-06-14",
     "url": "https://github.com/tbabej/taskwiki"
   },
@@ -14991,7 +14991,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-09-03",
+    "updated": "2026-09-04",
     "url": "https://github.com/x-cmd-install/taskwarrior"
   },
   {
@@ -15011,7 +15011,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-09-03",
+    "updated": "2026-09-04",
     "url": "https://github.com/x-cmd-install/taskwarrior-tui"
   },
   {
@@ -15089,7 +15089,7 @@
     "owner": [
       "xnileshtiwari"
     ],
-    "rating": 12,
+    "rating": 13,
     "updated": "2026-08-06",
     "url": "https://github.com/xnileshtiwari/omarchy-waybar"
   },
