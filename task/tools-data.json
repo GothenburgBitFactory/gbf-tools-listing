@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-09-02",
+    "updated": "2026-09-04",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -2395,7 +2395,7 @@
       "Wright4TheJob"
     ],
     "rating": 1,
-    "updated": "2026-09-01",
+    "updated": "2026-09-04",
     "url": "https://github.com/Wright4TheJob/taskwarrior-graph"
   },
   {
@@ -4517,7 +4517,7 @@
       "catanadj"
     ],
     "rating": 29,
-    "updated": "2026-09-03",
+    "updated": "2026-09-04",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -8697,7 +8697,7 @@
       "kantord"
     ],
     "rating": 228,
-    "updated": "2026-09-03",
+    "updated": "2026-09-05",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -10075,7 +10075,7 @@
     "owner": [
       "marriagav"
     ],
-    "rating": 38,
+    "rating": 39,
     "updated": "2025-10-15",
     "url": "https://github.com/marriagav/taskchamp-docs"
   },
@@ -13490,7 +13490,7 @@
       "snonux"
     ],
     "rating": 2,
-    "updated": "2026-09-03",
+    "updated": "2026-09-05",
     "url": "https://github.com/snonux/tasksamurai"
   },
   {
@@ -14991,7 +14991,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-09-04",
+    "updated": "2026-09-05",
     "url": "https://github.com/x-cmd-install/taskwarrior"
   },
   {
@@ -15011,7 +15011,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-09-04",
+    "updated": "2026-09-05",
     "url": "https://github.com/x-cmd-install/taskwarrior-tui"
   },
   {
