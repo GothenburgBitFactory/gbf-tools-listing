@@ -1967,7 +1967,7 @@
     "owner": [
       "micdahl"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2026-08-20",
     "url": "https://github.com/micdahl/omarchy-timewarrior"
   },
@@ -2462,7 +2462,7 @@
       "relegate-to"
     ],
     "rating": 1,
-    "updated": "2026-08-20",
+    "updated": "2026-09-07",
     "url": "https://github.com/relegate-to/tokify"
   },
   {
