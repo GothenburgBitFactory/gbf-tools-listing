@@ -1226,7 +1226,7 @@
     "owner": [
       "danteu"
     ],
-    "rating": 14,
+    "rating": 15,
     "updated": "2025-11-11",
     "url": "https://github.com/danteu/timewarrior-tagsum"
   },
@@ -1511,7 +1511,7 @@
     "owner": [
       "guludo"
     ],
-    "rating": 12,
+    "rating": 13,
     "updated": "2024-04-16",
     "url": "https://github.com/guludo/timewarrior-balance"
   },
@@ -2841,8 +2841,8 @@
     "owner": [
       "timewarrior-synchronize"
     ],
-    "rating": 59,
-    "updated": "2026-08-26",
+    "rating": 60,
+    "updated": "2026-09-08",
     "url": "https://github.com/timewarrior-synchronize/timew-sync-server"
   },
   {
