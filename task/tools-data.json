@@ -4981,6 +4981,26 @@
   {
     "archived": false,
     "category": [
+      "taskwarrior2",
+      "taskwarrior3"
+    ],
+    "description": "TaskWarrior-compatible CLI backed by Todoist. Cloud sync, mobile access, with the CLI you know.",
+    "dormant": false,
+    "language": [
+      "Go"
+    ],
+    "license": "Apache License 2.0",
+    "name": "tdo",
+    "owner": [
+      "coalwater"
+    ],
+    "rating": 0,
+    "updated": "2026-08-21",
+    "url": "https://github.com/coalwater/tdo"
+  },
+  {
+    "archived": false,
+    "category": [
       "taskserver",
       "taskwarrior2"
     ],
@@ -5937,6 +5957,26 @@
     "rating": 44,
     "updated": "2025-04-03",
     "url": "https://github.com/duckdm/neowarrior.nvim"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "Docker Compose for Taskwarrior and Timewarrior",
+    "dormant": false,
+    "language": [
+      "Dockerfile"
+    ],
+    "license": null,
+    "name": "flexible-finch",
+    "owner": [
+      "dwsmithson"
+    ],
+    "rating": 0,
+    "updated": "2026-07-04",
+    "url": "https://github.com/dwsmithson/flexible-finch"
   },
   {
     "archived": false,
@@ -8657,7 +8697,7 @@
       "kantord"
     ],
     "rating": 228,
-    "updated": "2026-09-08",
+    "updated": "2026-09-10",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -8716,7 +8756,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2120,
+    "rating": 2121,
     "updated": "2026-09-06",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -9278,6 +9318,26 @@
     "rating": 0,
     "updated": "2020-02-11",
     "url": "https://github.com/leifdenby/mttplan"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "taskwarrior dependecy tree in your terminal",
+    "dormant": true,
+    "language": [
+      "Python"
+    ],
+    "license": null,
+    "name": "twdep",
+    "owner": [
+      "leifdenby"
+    ],
+    "rating": 0,
+    "updated": "2022-02-09",
+    "url": "https://github.com/leifdenby/twdep"
   },
   {
     "archived": false,
@@ -10274,7 +10334,7 @@
       "maxjoehnk"
     ],
     "rating": 27,
-    "updated": "2026-09-08",
+    "updated": "2026-09-10",
     "url": "https://github.com/maxjoehnk/sidenotes"
   },
   {
@@ -11317,26 +11377,6 @@
     "url": "https://github.com/neingeist/mail2taskwarrior"
   },
   {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Delete overdue, recurring & duplicate taskwarrior tasks",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "task-recurring-delete",
-    "owner": [
-      "neingeist"
-    ],
-    "rating": 0,
-    "updated": "2021-11-27",
-    "url": "https://github.com/neingeist/task-recurring-delete"
-  },
-  {
     "archived": true,
     "category": [
       "taskwarrior2",
@@ -12295,26 +12335,6 @@
     "rating": 0,
     "updated": "2024-09-11",
     "url": "https://github.com/prateeksachan510/taskwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskwarrior2",
-      "taskwarrior3"
-    ],
-    "description": "Self-hosted web UI for Taskwarrior, built in Rust + HTMX on TaskChampion. Single binary, no external deps.",
-    "dormant": false,
-    "language": [
-      "Rust"
-    ],
-    "license": "MIT License",
-    "name": "taskwarrior-web",
-    "owner": [
-      "pritam12426"
-    ],
-    "rating": 0,
-    "updated": "2026-07-31",
-    "url": "https://github.com/pritam12426/taskwarrior-web"
   },
   {
     "archived": false,
@@ -14211,7 +14231,7 @@
       "timcase"
     ],
     "rating": 2,
-    "updated": "2026-07-15",
+    "updated": "2026-09-11",
     "url": "https://github.com/timcase/taskchampion-rb"
   },
   {
@@ -14991,7 +15011,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-09-10",
+    "updated": "2026-09-11",
     "url": "https://github.com/x-cmd-install/taskwarrior"
   },
   {
@@ -15011,7 +15031,7 @@
       "x-cmd-install"
     ],
     "rating": 0,
-    "updated": "2026-09-10",
+    "updated": "2026-09-11",
     "url": "https://github.com/x-cmd-install/taskwarrior-tui"
   },
   {
