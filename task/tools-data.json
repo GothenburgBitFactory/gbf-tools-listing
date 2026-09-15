@@ -1123,6 +1123,26 @@
   {
     "archived": false,
     "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "MCP server and dependency-free Python core for Taskwarrior",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "taskwarrior-mcp-lite",
+    "owner": [
+      "GermanCalle"
+    ],
+    "rating": 0,
+    "updated": "2026-09-15",
+    "url": "https://github.com/GermanCalle/taskwarrior-mcp-lite"
+  },
+  {
+    "archived": false,
+    "category": [
       "taskwarrior2",
       "taskwarrior3"
     ],
@@ -5441,26 +5461,6 @@
   {
     "archived": false,
     "category": [
-      "taskwarrior2",
-      "taskwarrior3"
-    ],
-    "description": "taskwarrior i3block with clojure's babashka",
-    "dormant": true,
-    "language": [
-      "Clojure"
-    ],
-    "license": "Other",
-    "name": "i3blocks-taskwarrior-clojure",
-    "owner": [
-      "davidsierradz"
-    ],
-    "rating": 1,
-    "updated": "2020-10-25",
-    "url": "https://github.com/davidsierradz/i3blocks-taskwarrior-clojure"
-  },
-  {
-    "archived": false,
-    "category": [
       "taskserver",
       "taskwarrior2"
     ],
@@ -8617,7 +8617,7 @@
       "kantord"
     ],
     "rating": 228,
-    "updated": "2026-09-13",
+    "updated": "2026-09-15",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -8676,7 +8676,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2125,
+    "rating": 2126,
     "updated": "2026-09-13",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -11297,26 +11297,6 @@
     "url": "https://github.com/neingeist/mail2taskwarrior"
   },
   {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Delete overdue, recurring & duplicate taskwarrior tasks",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "task-recurring-delete",
-    "owner": [
-      "neingeist"
-    ],
-    "rating": 0,
-    "updated": "2021-11-27",
-    "url": "https://github.com/neingeist/task-recurring-delete"
-  },
-  {
     "archived": true,
     "category": [
       "taskwarrior2",
@@ -13359,6 +13339,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": "Native macOS window around the taskwarrior command line",
+    "dormant": false,
+    "language": [
+      "Swift"
+    ],
+    "license": null,
+    "name": "taskwarrior_macos",
+    "owner": [
+      "slzatz"
+    ],
+    "rating": 0,
+    "updated": "2026-09-14",
+    "url": "https://github.com/slzatz/taskwarrior_macos"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": "A script to backup Taskwarrior tasks.",
     "dormant": true,
     "language": [
@@ -14671,7 +14671,7 @@
       "victorstein"
     ],
     "rating": 2,
-    "updated": "2026-08-14",
+    "updated": "2026-09-14",
     "url": "https://github.com/victorstein/tawtui"
   },
   {
