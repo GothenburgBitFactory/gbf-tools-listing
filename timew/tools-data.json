@@ -751,7 +751,7 @@
     "owner": [
       "azagoskin"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2026-09-14",
     "url": "https://github.com/azagoskin/timewarrior-tui"
   },
@@ -1606,8 +1606,8 @@
     "owner": [
       "janfrode"
     ],
-    "rating": 2,
-    "updated": "2026-09-01",
+    "rating": 3,
+    "updated": "2026-09-16",
     "url": "https://github.com/janfrode/Arete"
   },
   {
@@ -1872,7 +1872,7 @@
     "owner": [
       "luizferw"
     ],
-    "rating": 2,
+    "rating": 3,
     "updated": "2026-05-26",
     "url": "https://github.com/luizferw/timewarrior-tui"
   },
@@ -2462,7 +2462,7 @@
       "relegate-to"
     ],
     "rating": 1,
-    "updated": "2026-09-10",
+    "updated": "2026-09-17",
     "url": "https://github.com/relegate-to/tokify"
   },
   {
