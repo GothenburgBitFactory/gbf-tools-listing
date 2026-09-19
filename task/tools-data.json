@@ -4497,7 +4497,7 @@
       "catanadj"
     ],
     "rating": 31,
-    "updated": "2026-09-17",
+    "updated": "2026-09-18",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -8456,7 +8456,7 @@
     "owner": [
       "jschlatow"
     ],
-    "rating": 436,
+    "rating": 437,
     "updated": "2026-05-21",
     "url": "https://github.com/jschlatow/taskopen"
   },
@@ -8617,7 +8617,7 @@
       "kantord"
     ],
     "rating": 230,
-    "updated": "2026-09-16",
+    "updated": "2026-09-18",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -8676,7 +8676,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2128,
+    "rating": 2130,
     "updated": "2026-09-13",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -11684,7 +11684,7 @@
       "taskwarrior2"
     ],
     "description": "Rofi interface for TaskWarrior",
-    "dormant": false,
+    "dormant": true,
     "language": [
       "Rust"
     ],
@@ -13971,7 +13971,7 @@
       "technicalpickles"
     ],
     "rating": 0,
-    "updated": "2026-09-15",
+    "updated": "2026-09-18",
     "url": "https://github.com/technicalpickles/bb-plugin-taskwarrior"
   },
   {
