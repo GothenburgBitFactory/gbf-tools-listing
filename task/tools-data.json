@@ -1475,7 +1475,7 @@
       "KaiErikNiermann"
     ],
     "rating": 0,
-    "updated": "2026-09-13",
+    "updated": "2026-09-20",
     "url": "https://github.com/KaiErikNiermann/taskwarrior-mcp"
   },
   {
@@ -4236,8 +4236,8 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 48,
-    "updated": "2026-09-19",
+    "rating": 49,
+    "updated": "2026-09-21",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4477,7 +4477,7 @@
       "catanadj"
     ],
     "rating": 6,
-    "updated": "2026-09-19",
+    "updated": "2026-09-21",
     "url": "https://github.com/catanadj/taskwarrior-jot"
   },
   {
@@ -8677,7 +8677,7 @@
       "kdheepak"
     ],
     "rating": 2131,
-    "updated": "2026-09-13",
+    "updated": "2026-09-20",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
   {
@@ -10536,26 +10536,6 @@
     "rating": 2,
     "updated": "2026-07-18",
     "url": "https://github.com/mivort/trackk"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "A web-based GUI dashboard for TaskWarrior. It facilitates and gamifies task management with a built-in trophy system, motivating you to complete your daily tasks and long-term projects.",
-    "dormant": false,
-    "language": [
-      "CSS"
-    ],
-    "license": null,
-    "name": "Dashboard-TaskWarrior",
-    "owner": [
-      "mkya21"
-    ],
-    "rating": 0,
-    "updated": "2026-08-24",
-    "url": "https://github.com/mkya21/Dashboard-TaskWarrior"
   },
   {
     "archived": false,
@@ -13350,7 +13330,7 @@
       "slzatz"
     ],
     "rating": 0,
-    "updated": "2026-09-19",
+    "updated": "2026-09-20",
     "url": "https://github.com/slzatz/taskwarrior_macos"
   },
   {
@@ -13549,7 +13529,7 @@
     "owner": [
       "staskus"
     ],
-    "rating": 12,
+    "rating": 13,
     "updated": "2016-05-26",
     "url": "https://github.com/staskus/KanWarrior"
   },
@@ -14190,7 +14170,7 @@
     "owner": [
       "timcase"
     ],
-    "rating": 7,
+    "rating": 8,
     "updated": "2026-03-03",
     "url": "https://github.com/timcase/taskwarrior-agent-skill"
   },
@@ -15272,7 +15252,7 @@
       "zochari"
     ],
     "rating": 1,
-    "updated": "2026-08-20",
+    "updated": "2026-09-21",
     "url": "https://github.com/zochari/noctalia-plugin-taskwarrior"
   },
   {
