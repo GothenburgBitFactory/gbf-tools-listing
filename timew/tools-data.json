@@ -190,6 +190,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "Taskwarrior Time \u2014 Omarchy bar plugin for Taskwarrior + Timewarrior",
+    "dormant": false,
+    "language": [
+      "QML"
+    ],
+    "license": "MIT License",
+    "name": "taskwarrior-time",
+    "owner": [
+      "DataArchitectPro"
+    ],
+    "rating": 1,
+    "updated": "2026-09-23",
+    "url": "https://github.com/DataArchitectPro/taskwarrior-time"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Extension for Timewarrior.",
     "dormant": true,
     "language": [
@@ -751,7 +770,7 @@
     "owner": [
       "azagoskin"
     ],
-    "rating": 1,
+    "rating": 2,
     "updated": "2026-09-14",
     "url": "https://github.com/azagoskin/timewarrior-tui"
   },
@@ -2274,6 +2293,25 @@
     "rating": 0,
     "updated": "2026-09-01",
     "url": "https://github.com/pigmonkey/timeslip"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
+    "description": "Taskwarrior & Timewarrior Parallel Assignee Engine (compatible with TaskChampion)",
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": "MIT License",
+    "name": "task-phalanx",
+    "owner": [
+      "pplupo"
+    ],
+    "rating": 0,
+    "updated": "2026-09-24",
+    "url": "https://github.com/pplupo/task-phalanx"
   },
   {
     "archived": false,
