@@ -201,7 +201,7 @@
       "DataArchitectPro"
     ],
     "rating": 1,
-    "updated": "2026-09-23",
+    "updated": "2026-09-27",
     "url": "https://github.com/DataArchitectPro/taskwarrior-time"
   },
   {
@@ -830,6 +830,25 @@
     "rating": 12,
     "updated": "2024-02-04",
     "url": "https://github.com/bimlas/xfce4-timewarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
+    "description": "A Timewarrior https://timewarrior.net report extension that prints tracked time as a table: one row per day, one column per tag, values in hours. The value block is plain delimiter-separated text, ready to into a spreadsheet or timesheet.",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "GNU Affero General Public License v3.0",
+    "name": "timew-tagtable",
+    "owner": [
+      "butzo"
+    ],
+    "rating": 0,
+    "updated": "2026-09-26",
+    "url": "https://github.com/butzo/timew-tagtable"
   },
   {
     "archived": false,
@@ -2090,6 +2109,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "A Timewarrior reporting command that shows your timeline.",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "timeline",
+    "owner": [
+      "mrensan"
+    ],
+    "rating": 1,
+    "updated": "2026-09-26",
+    "url": "https://github.com/mrensan/timeline"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -2899,7 +2937,7 @@
       "tobixen"
     ],
     "rating": 0,
-    "updated": "2026-09-21",
+    "updated": "2026-09-26",
     "url": "https://github.com/tobixen/aw-export-timewarrior"
   },
   {
