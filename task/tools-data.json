@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-09-25",
+    "updated": "2026-09-26",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -858,7 +858,7 @@
       "DataArchitectPro"
     ],
     "rating": 1,
-    "updated": "2026-09-23",
+    "updated": "2026-09-27",
     "url": "https://github.com/DataArchitectPro/taskwarrior-time"
   },
   {
@@ -1215,7 +1215,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 158,
+    "rating": 157,
     "updated": "2024-07-28",
     "url": "https://github.com/GothenburgBitFactory/tasklib"
   },
@@ -4257,7 +4257,7 @@
       "brokenpip3"
     ],
     "rating": 49,
-    "updated": "2026-09-25",
+    "updated": "2026-09-26",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -5359,7 +5359,7 @@
     "url": "https://github.com/ctruchi/taskwarriormcp"
   },
   {
-    "archived": false,
+    "archived": true,
     "category": [
       "taskserver",
       "taskwarrior2"
@@ -5375,7 +5375,7 @@
       "cygporter"
     ],
     "rating": 0,
-    "updated": "2023-10-30",
+    "updated": "2026-09-26",
     "url": "https://github.com/cygporter/taskwarrior"
   },
   {
@@ -7017,26 +7017,6 @@
     "rating": 1,
     "updated": "2015-11-15",
     "url": "https://github.com/harleypig/perl-taskwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "This Perl script is used for exporting daily tasks, tracked in taskwarrior, to an Obsidian document.",
-    "dormant": true,
-    "language": [
-      "Perl"
-    ],
-    "license": "MIT License",
-    "name": "rectasks",
-    "owner": [
-      "hashref"
-    ],
-    "rating": 3,
-    "updated": "2022-08-10",
-    "url": "https://github.com/hashref/rectasks"
   },
   {
     "archived": false,
@@ -13890,7 +13870,7 @@
     "owner": [
       "taskvanguard"
     ],
-    "rating": 44,
+    "rating": 45,
     "updated": "2026-02-07",
     "url": "https://github.com/taskvanguard/taskvanguard"
   },
@@ -14730,7 +14710,7 @@
     "owner": [
       "vit-project"
     ],
-    "rating": 582,
+    "rating": 583,
     "updated": "2026-09-15",
     "url": "https://github.com/vit-project/vit"
   },
