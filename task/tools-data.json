@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-09-27",
+    "updated": "2026-09-28",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -4256,8 +4256,8 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 49,
-    "updated": "2026-09-28",
+    "rating": 50,
+    "updated": "2026-09-29",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -6695,7 +6695,7 @@
       "garybgenett"
     ],
     "rating": 16,
-    "updated": "2026-09-18",
+    "updated": "2026-09-29",
     "url": "https://github.com/garybgenett/tasks"
   },
   {
@@ -8696,7 +8696,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2132,
+    "rating": 2133,
     "updated": "2026-09-27",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -9235,7 +9235,7 @@
     "owner": [
       "lbesnard"
     ],
-    "rating": 21,
+    "rating": 22,
     "updated": "2026-06-10",
     "url": "https://github.com/lbesnard/task-tui"
   },
