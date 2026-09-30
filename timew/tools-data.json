@@ -201,7 +201,7 @@
       "DataArchitectPro"
     ],
     "rating": 1,
-    "updated": "2026-09-27",
+    "updated": "2026-09-29",
     "url": "https://github.com/DataArchitectPro/taskwarrior-time"
   },
   {
@@ -2120,7 +2120,7 @@
       "mrensan"
     ],
     "rating": 1,
-    "updated": "2026-09-26",
+    "updated": "2026-09-29",
     "url": "https://github.com/mrensan/timeline"
   },
   {
@@ -2955,7 +2955,7 @@
     "owner": [
       "tobixen"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2026-02-24",
     "url": "https://github.com/tobixen/timewarrior-tools"
   },
