@@ -497,7 +497,7 @@
     "owner": [
       "AnotherKamila"
     ],
-    "rating": 40,
+    "rating": 39,
     "updated": "2019-03-05",
     "url": "https://github.com/AnotherKamila/tasksched"
   },
@@ -560,6 +560,26 @@
     "rating": 2,
     "updated": "2026-04-11",
     "url": "https://github.com/BerkeleyTrue/taskbane"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "create a schedule from Taskwarrior tasks",
+    "dormant": false,
+    "language": [
+      "Rust"
+    ],
+    "license": null,
+    "name": "task-sched",
+    "owner": [
+      "BrianHicks"
+    ],
+    "rating": 0,
+    "updated": "2025-01-27",
+    "url": "https://github.com/BrianHicks/task-sched"
   },
   {
     "archived": false,
@@ -2415,7 +2435,7 @@
       "Wright4TheJob"
     ],
     "rating": 1,
-    "updated": "2026-09-30",
+    "updated": "2026-10-02",
     "url": "https://github.com/Wright4TheJob/taskwarrior-graph"
   },
   {
@@ -8696,7 +8716,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2137,
+    "rating": 2138,
     "updated": "2026-09-27",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -12671,7 +12691,7 @@
     "owner": [
       "robwhitaker"
     ],
-    "rating": 15,
+    "rating": 14,
     "updated": "2022-09-14",
     "url": "https://github.com/robwhitaker/taskwarrior-habitica-bridge"
   },
@@ -13390,7 +13410,7 @@
       "smemsh"
     ],
     "rating": 4,
-    "updated": "2026-06-08",
+    "updated": "2026-10-02",
     "url": "https://github.com/smemsh/taskwtools"
   },
   {
@@ -13850,7 +13870,7 @@
     "owner": [
       "taskdroid"
     ],
-    "rating": 24,
+    "rating": 25,
     "updated": "2026-08-28",
     "url": "https://github.com/taskdroid/taskdroid"
   },
