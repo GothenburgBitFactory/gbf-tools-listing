@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-10-01",
+    "updated": "2026-10-03",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -560,26 +560,6 @@
     "rating": 2,
     "updated": "2026-04-11",
     "url": "https://github.com/BerkeleyTrue/taskbane"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "create a schedule from Taskwarrior tasks",
-    "dormant": false,
-    "language": [
-      "Rust"
-    ],
-    "license": null,
-    "name": "task-sched",
-    "owner": [
-      "BrianHicks"
-    ],
-    "rating": 0,
-    "updated": "2025-01-27",
-    "url": "https://github.com/BrianHicks/task-sched"
   },
   {
     "archived": false,
@@ -3605,6 +3585,46 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": "Two Taskwarrior hook scripts that sync Jira work items (read and written via the Atlassian CLI, acli) with a local Taskwarrior task list.",
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": "MIT License",
+    "name": "acli-taskwarrior",
+    "owner": [
+      "awlayton"
+    ],
+    "rating": 0,
+    "updated": "2026-10-03",
+    "url": "https://github.com/awlayton/acli-taskwarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": null,
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": "MIT License",
+    "name": "notmuch-taskwarrior",
+    "owner": [
+      "awlayton"
+    ],
+    "rating": 0,
+    "updated": "2026-10-03",
+    "url": "https://github.com/awlayton/notmuch-taskwarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": "MCP Server for TaskWarrior!",
     "dormant": false,
     "language": [
@@ -4256,7 +4276,7 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 52,
+    "rating": 53,
     "updated": "2026-09-30",
     "url": "https://github.com/brokenpip3/fatto"
   },
@@ -6735,7 +6755,7 @@
       "garybgenett"
     ],
     "rating": 16,
-    "updated": "2026-09-29",
+    "updated": "2026-10-03",
     "url": "https://github.com/garybgenett/tasks"
   },
   {
@@ -8716,7 +8736,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2138,
+    "rating": 2139,
     "updated": "2026-09-27",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -13430,7 +13450,7 @@
       "snonux"
     ],
     "rating": 2,
-    "updated": "2026-09-23",
+    "updated": "2026-10-04",
     "url": "https://github.com/snonux/tasksamurai"
   },
   {
@@ -14693,26 +14713,6 @@
     "rating": 11,
     "updated": "2016-01-25",
     "url": "https://github.com/venturecommunism/meteor-taskwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "A TUI on top of Taskwarrior for task management and PR review",
-    "dormant": false,
-    "language": [
-      "TypeScript"
-    ],
-    "license": "MIT License",
-    "name": "tawtui",
-    "owner": [
-      "victorstein"
-    ],
-    "rating": 2,
-    "updated": "2026-09-14",
-    "url": "https://github.com/victorstein/tawtui"
   },
   {
     "archived": false,
