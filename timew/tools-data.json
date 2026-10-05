@@ -2869,6 +2869,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "A command-line time tracker with a plaintext backend and zero dependencies. Timetrap, Timewarrior and Watson features, plus breathing, sitting and mood check-ins. Pure Python 3.9+.",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "klok",
+    "owner": [
+      "technomad641"
+    ],
+    "rating": 0,
+    "updated": "2026-09-18",
+    "url": "https://github.com/technomad641/klok"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Timewarrior TypeScript bindings for Node",
     "dormant": true,
     "language": [
