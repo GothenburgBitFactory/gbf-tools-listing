@@ -597,7 +597,7 @@
       "CCExtractor"
     ],
     "rating": 244,
-    "updated": "2026-10-01",
+    "updated": "2026-10-04",
     "url": "https://github.com/CCExtractor/taskwarrior-flutter"
   },
   {
@@ -1475,7 +1475,7 @@
       "KaiErikNiermann"
     ],
     "rating": 0,
-    "updated": "2026-09-27",
+    "updated": "2026-10-04",
     "url": "https://github.com/KaiErikNiermann/taskwarrior-mcp"
   },
   {
@@ -3995,7 +3995,7 @@
     "owner": [
       "bgregos"
     ],
-    "rating": 258,
+    "rating": 259,
     "updated": "2024-06-11",
     "url": "https://github.com/bgregos/foreground"
   },
@@ -4276,8 +4276,8 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 53,
-    "updated": "2026-09-30",
+    "rating": 55,
+    "updated": "2026-10-05",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4597,7 +4597,7 @@
       "catanadj"
     ],
     "rating": 1,
-    "updated": "2026-08-12",
+    "updated": "2026-10-04",
     "url": "https://github.com/catanadj/taskwarrior-tnt"
   },
   {
@@ -12443,7 +12443,7 @@
       "taskwarrior2"
     ],
     "description": "A Terminal UI for Taskwarrior",
-    "dormant": false,
+    "dormant": true,
     "language": [
       "Go"
     ],
@@ -12894,26 +12894,6 @@
     "rating": 0,
     "updated": "2025-09-23",
     "url": "https://github.com/sandeep9062/taskserver"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "A CLI Wrapper for TaskWarrior",
-    "dormant": false,
-    "language": [
-      "Python"
-    ],
-    "license": "Other",
-    "name": "taskr",
-    "owner": [
-      "schizoprada"
-    ],
-    "rating": 0,
-    "updated": "2025-04-22",
-    "url": "https://github.com/schizoprada/taskr"
   },
   {
     "archived": false,
@@ -13450,7 +13430,7 @@
       "snonux"
     ],
     "rating": 2,
-    "updated": "2026-10-04",
+    "updated": "2026-10-05",
     "url": "https://github.com/snonux/tasksamurai"
   },
   {
@@ -14010,7 +13990,7 @@
     "owner": [
       "tbabej"
     ],
-    "rating": 916,
+    "rating": 915,
     "updated": "2025-06-14",
     "url": "https://github.com/tbabej/taskwiki"
   },
@@ -14750,7 +14730,7 @@
     "owner": [
       "vit-project"
     ],
-    "rating": 584,
+    "rating": 583,
     "updated": "2026-09-15",
     "url": "https://github.com/vit-project/vit"
   },
