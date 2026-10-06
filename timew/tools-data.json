@@ -2527,25 +2527,6 @@
     "category": [
       "timewarrior"
     ],
-    "description": "A small focused time tracker based on Tock.",
-    "dormant": false,
-    "language": [
-      "Go"
-    ],
-    "license": "GNU General Public License v3.0",
-    "name": "tokify",
-    "owner": [
-      "relegate-to"
-    ],
-    "rating": 1,
-    "updated": "2026-10-03",
-    "url": "https://github.com/relegate-to/tokify"
-  },
-  {
-    "archived": false,
-    "category": [
-      "timewarrior"
-    ],
     "description": "Timewarrior extensions for smarter summaries and Dynamics/Zoho exports, tag mapping, and annotation handling.",
     "dormant": false,
     "language": [
