@@ -723,7 +723,7 @@
       "timewarrior"
     ],
     "description": "TimeWarrior extension for uploading timelog to Jira Tempo ",
-    "dormant": false,
+    "dormant": true,
     "language": [
       "Python"
     ],
@@ -2595,7 +2595,7 @@
       "sarnold"
     ],
     "rating": 2,
-    "updated": "2026-09-01",
+    "updated": "2026-10-07",
     "url": "https://github.com/sarnold/timew-addons"
   },
   {
@@ -2899,7 +2899,7 @@
       "timewarrior-synchronize"
     ],
     "rating": 31,
-    "updated": "2026-10-02",
+    "updated": "2026-10-08",
     "url": "https://github.com/timewarrior-synchronize/timew-sync-client"
   },
   {
@@ -2937,7 +2937,7 @@
       "tobixen"
     ],
     "rating": 0,
-    "updated": "2026-10-02",
+    "updated": "2026-10-08",
     "url": "https://github.com/tobixen/aw-export-timewarrior"
   },
   {
