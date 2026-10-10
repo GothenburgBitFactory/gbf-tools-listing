@@ -597,7 +597,7 @@
       "CCExtractor"
     ],
     "rating": 244,
-    "updated": "2026-10-08",
+    "updated": "2026-10-09",
     "url": "https://github.com/CCExtractor/taskwarrior-flutter"
   },
   {
@@ -6755,7 +6755,7 @@
       "garybgenett"
     ],
     "rating": 16,
-    "updated": "2026-10-08",
+    "updated": "2026-10-10",
     "url": "https://github.com/garybgenett/tasks"
   },
   {
@@ -7497,26 +7497,6 @@
     "rating": 3,
     "updated": "2018-11-26",
     "url": "https://github.com/indieterminacy/1q10rq_tasks_taskwarrior_zsh"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": null,
-    "dormant": false,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "taskserver",
-    "owner": [
-      "insariii"
-    ],
-    "rating": 0,
-    "updated": "2026-10-08",
-    "url": "https://github.com/insariii/taskserver"
   },
   {
     "archived": false,
@@ -8536,7 +8516,7 @@
     "owner": [
       "jschlatow"
     ],
-    "rating": 438,
+    "rating": 439,
     "updated": "2026-05-21",
     "url": "https://github.com/jschlatow/taskopen"
   },
@@ -13430,7 +13410,7 @@
       "snonux"
     ],
     "rating": 2,
-    "updated": "2026-10-05",
+    "updated": "2026-10-09",
     "url": "https://github.com/snonux/tasksamurai"
   },
   {
@@ -14617,10 +14597,10 @@
   {
     "archived": false,
     "category": [
-      "taskserver",
-      "taskwarrior2"
+      "taskwarrior2",
+      "taskwarrior3"
     ],
-    "description": "WIP: Taskwarrior but on Cloudflare",
+    "description": "Taskwarrior but on Cloudflare",
     "dormant": false,
     "language": [
       "Rust"
