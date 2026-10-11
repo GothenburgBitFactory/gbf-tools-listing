@@ -2515,7 +2515,7 @@
       "Zebradil"
     ],
     "rating": 74,
-    "updated": "2026-08-27",
+    "updated": "2026-10-11",
     "url": "https://github.com/Zebradil/powerline-taskwarrior"
   },
   {
@@ -4256,8 +4256,8 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 56,
-    "updated": "2026-10-09",
+    "rating": 57,
+    "updated": "2026-10-10",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4317,7 +4317,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-10-07",
+    "updated": "2026-10-10",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -4627,7 +4627,7 @@
       "taskwarrior2"
     ],
     "description": "Telegram bot that sends taskwarrior urgent tasks",
-    "dormant": true,
+    "dormant": false,
     "language": [
       "Ruby"
     ],
@@ -4637,7 +4637,7 @@
       "cedricdekimpe"
     ],
     "rating": 0,
-    "updated": "2022-04-28",
+    "updated": "2026-10-10",
     "url": "https://github.com/cedricdekimpe/telegram-taskwarrior"
   },
   {
@@ -8736,7 +8736,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2139,
+    "rating": 2140,
     "updated": "2026-09-27",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -11854,7 +11854,7 @@
       "omniwaifu"
     ],
     "rating": 9,
-    "updated": "2026-10-08",
+    "updated": "2026-10-11",
     "url": "https://github.com/omniwaifu/taskwarrior-mcp"
   },
   {
@@ -14611,7 +14611,7 @@
       "uroybd"
     ],
     "rating": 1,
-    "updated": "2026-10-09",
+    "updated": "2026-10-10",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
