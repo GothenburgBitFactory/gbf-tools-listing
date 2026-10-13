@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-10-07",
+    "updated": "2026-10-12",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -2695,7 +2695,7 @@
     "owner": [
       "acebaggins"
     ],
-    "rating": 21,
+    "rating": 22,
     "updated": "2025-04-07",
     "url": "https://github.com/acebaggins/taskwarrior-mcp"
   },
@@ -4257,7 +4257,7 @@
       "brokenpip3"
     ],
     "rating": 57,
-    "updated": "2026-10-10",
+    "updated": "2026-10-12",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -14333,6 +14333,26 @@
     "rating": 1,
     "updated": "2018-03-11",
     "url": "https://github.com/tomdurrant/taskwarrior-toggl-hook"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "Scrappy Taskwarrior utilities for macOS \u2014 weekly agenda view and due task notifications",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "taskwarrior-tools",
+    "owner": [
+      "tomfbush"
+    ],
+    "rating": 0,
+    "updated": "2026-10-13",
+    "url": "https://github.com/tomfbush/taskwarrior-tools"
   },
   {
     "archived": false,
