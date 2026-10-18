@@ -152,6 +152,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "The BuilderMoose toolkit: modular Bash/Zsh alias manager, macOS/Linux screen lock session tracker, and Timewarrior gap-sync utilities.",
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": "MIT License",
+    "name": "moosetilities",
+    "owner": [
+      "BuilderMoose"
+    ],
+    "rating": 0,
+    "updated": "2026-10-18",
+    "url": "https://github.com/BuilderMoose/moosetilities"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A Python-based extension for Timewarrior that tracks actual time spent against defined monthly project allocations. It automatically calculates your monthly capacity based on your schedule, monitors progress via fixed hours or percentages, and ensures no time falls through the cracks.",
     "dormant": false,
     "language": [
