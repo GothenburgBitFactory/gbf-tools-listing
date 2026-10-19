@@ -97,8 +97,8 @@
     "owner": [
       "00sapo"
     ],
-    "rating": 39,
-    "updated": "2026-08-03",
+    "rating": 40,
+    "updated": "2026-10-18",
     "url": "https://github.com/00sapo/taskcheck"
   },
   {
@@ -1475,7 +1475,7 @@
       "KaiErikNiermann"
     ],
     "rating": 0,
-    "updated": "2026-10-11",
+    "updated": "2026-10-18",
     "url": "https://github.com/KaiErikNiermann/taskwarrior-mcp"
   },
   {
@@ -4216,8 +4216,8 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 60,
-    "updated": "2026-10-17",
+    "rating": 62,
+    "updated": "2026-10-19",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -8717,7 +8717,7 @@
       "kdheepak"
     ],
     "rating": 2146,
-    "updated": "2026-10-11",
+    "updated": "2026-10-18",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
   {
@@ -9516,7 +9516,7 @@
       "linuxcaffe"
     ],
     "rating": 1,
-    "updated": "2026-10-17",
+    "updated": "2026-10-19",
     "url": "https://github.com/linuxcaffe/awesome-taskwarrior"
   },
   {
@@ -11834,7 +11834,7 @@
       "omniwaifu"
     ],
     "rating": 9,
-    "updated": "2026-10-15",
+    "updated": "2026-10-18",
     "url": "https://github.com/omniwaifu/taskwarrior-mcp"
   },
   {
@@ -12155,6 +12155,26 @@
     "rating": 1,
     "updated": "2022-12-29",
     "url": "https://github.com/pipoprods/spaceship-taskwarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "taskwarrior with a flow, an author and rules of hygiene, for one human and their AI assistants",
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": "MIT License",
+    "name": "taskwarrior-squire",
+    "owner": [
+      "pirj"
+    ],
+    "rating": 0,
+    "updated": "2026-10-19",
+    "url": "https://github.com/pirj/taskwarrior-squire"
   },
   {
     "archived": false,
@@ -13850,7 +13870,7 @@
     "owner": [
       "taskdroid"
     ],
-    "rating": 25,
+    "rating": 26,
     "updated": "2026-08-28",
     "url": "https://github.com/taskdroid/taskdroid"
   },
@@ -13970,7 +13990,7 @@
     "owner": [
       "tbabej"
     ],
-    "rating": 915,
+    "rating": 916,
     "updated": "2025-06-14",
     "url": "https://github.com/tbabej/taskwiki"
   },
@@ -14631,7 +14651,7 @@
       "uroybd"
     ],
     "rating": 2,
-    "updated": "2026-10-17",
+    "updated": "2026-10-18",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
@@ -15032,26 +15052,6 @@
     "rating": 1,
     "updated": "2020-04-10",
     "url": "https://github.com/yagizsenal/taskwarrior-spacedlearning"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": null,
-    "dormant": true,
-    "language": [
-      "Perl"
-    ],
-    "license": null,
-    "name": "Neovim-RPC-Plugin-Taskwarrior",
-    "owner": [
-      "yanick"
-    ],
-    "rating": 0,
-    "updated": "2017-11-26",
-    "url": "https://github.com/yanick/Neovim-RPC-Plugin-Taskwarrior"
   },
   {
     "archived": false,
