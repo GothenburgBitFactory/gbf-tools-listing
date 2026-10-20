@@ -790,7 +790,7 @@
       "azagoskin"
     ],
     "rating": 3,
-    "updated": "2026-09-14",
+    "updated": "2026-10-19",
     "url": "https://github.com/azagoskin/timewarrior-tui"
   },
   {
@@ -2388,25 +2388,6 @@
     "rating": 1,
     "updated": "2025-07-31",
     "url": "https://github.com/pweaver2019/timewarrior-boxcalendar"
-  },
-  {
-    "archived": false,
-    "category": [
-      "timewarrior"
-    ],
-    "description": "Helper scripts for TimeWarrior",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "timewarrior",
-    "owner": [
-      "pxtimes3"
-    ],
-    "rating": 0,
-    "updated": "2021-02-25",
-    "url": "https://github.com/pxtimes3/timewarrior"
   },
   {
     "archived": false,
