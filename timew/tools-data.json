@@ -2394,6 +2394,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "Helper scripts for TimeWarrior",
+    "dormant": true,
+    "language": [
+      "Python"
+    ],
+    "license": null,
+    "name": "timewarrior",
+    "owner": [
+      "pxtimes3"
+    ],
+    "rating": 0,
+    "updated": "2021-02-25",
+    "url": "https://github.com/pxtimes3/timewarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Scripts for using TimeWarrior data for my job",
     "dormant": false,
     "language": [
