@@ -333,9 +333,28 @@
     "owner": [
       "Laeborg"
     ],
-    "rating": 2,
+    "rating": 3,
     "updated": "2026-02-26",
     "url": "https://github.com/Laeborg/cosmic-applet-timewarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
+    "description": "Timewarrior time tracker for SketchyBar",
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": "MIT License",
+    "name": "sketchybar-timewarrior",
+    "owner": [
+      "LucasOesterbye"
+    ],
+    "rating": 0,
+    "updated": "2026-10-21",
+    "url": "https://github.com/LucasOesterbye/sketchybar-timewarrior"
   },
   {
     "archived": false,
@@ -523,7 +542,7 @@
     "owner": [
       "abuhamza"
     ],
-    "rating": 4,
+    "rating": 5,
     "updated": "2026-03-12",
     "url": "https://github.com/abuhamza/time-warriors"
   },
@@ -884,7 +903,7 @@
     "owner": [
       "bzundel"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2025-05-14",
     "url": "https://github.com/bzundel/timewdroid"
   },
@@ -960,7 +979,7 @@
     "owner": [
       "cf020031308"
     ],
-    "rating": 55,
+    "rating": 56,
     "updated": "2019-05-31",
     "url": "https://github.com/cf020031308/pomodoro-warriors"
   },
@@ -998,7 +1017,7 @@
     "owner": [
       "christianmorales-hue"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2026-07-23",
     "url": "https://github.com/christianmorales-hue/pomtimer"
   },
@@ -1017,7 +1036,7 @@
     "owner": [
       "codehivetx"
     ],
-    "rating": 2,
+    "rating": 3,
     "updated": "2024-04-02",
     "url": "https://github.com/codehivetx/dock-warrior"
   },
@@ -1284,7 +1303,7 @@
       "danteu"
     ],
     "rating": 15,
-    "updated": "2025-11-11",
+    "updated": "2026-10-21",
     "url": "https://github.com/danteu/timewarrior-tagsum"
   },
   {
@@ -1435,7 +1454,7 @@
     "owner": [
       "ftapajos"
     ],
-    "rating": 6,
+    "rating": 7,
     "updated": "2026-06-30",
     "url": "https://github.com/ftapajos/scheduler"
   },
@@ -1511,7 +1530,7 @@
     "owner": [
       "gkssjovi"
     ],
-    "rating": 40,
+    "rating": 41,
     "updated": "2022-11-08",
     "url": "https://github.com/gkssjovi/trackwarrior"
   },
@@ -1739,7 +1758,7 @@
     "owner": [
       "jonix"
     ],
-    "rating": 1,
+    "rating": 2,
     "updated": "2025-11-28",
     "url": "https://github.com/jonix/Mensura"
   },
@@ -1834,7 +1853,7 @@
     "owner": [
       "liloman"
     ],
-    "rating": 35,
+    "rating": 36,
     "updated": "2017-11-11",
     "url": "https://github.com/liloman/pomodoroTasks2"
   },
@@ -1853,7 +1872,7 @@
     "owner": [
       "liloman"
     ],
-    "rating": 17,
+    "rating": 18,
     "updated": "2017-03-29",
     "url": "https://github.com/liloman/warriors"
   },
@@ -2081,7 +2100,7 @@
     "owner": [
       "mkluge"
     ],
-    "rating": 87,
+    "rating": 88,
     "updated": "2023-01-23",
     "url": "https://github.com/mkluge/timewcs"
   },
@@ -2252,7 +2271,7 @@
     "owner": [
       "omar-khallaf"
     ],
-    "rating": 4,
+    "rating": 5,
     "updated": "2023-03-03",
     "url": "https://github.com/omar-khallaf/Timewarrior-Pomodoro"
   },
@@ -2309,7 +2328,7 @@
     "owner": [
       "petrovag"
     ],
-    "rating": 2,
+    "rating": 3,
     "updated": "2023-01-29",
     "url": "https://github.com/petrovag/taskw"
   },
@@ -2366,7 +2385,7 @@
     "owner": [
       "pplupo"
     ],
-    "rating": 1,
+    "rating": 2,
     "updated": "2026-09-30",
     "url": "https://github.com/pplupo/task-phalanx"
   },
@@ -2442,7 +2461,7 @@
     "owner": [
       "radarsymphony"
     ],
-    "rating": 1,
+    "rating": 2,
     "updated": "2026-10-06",
     "url": "https://github.com/radarsymphony/taskwarrior-hooks"
   },
@@ -2689,7 +2708,7 @@
     "owner": [
       "serokell"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2019-01-29",
     "url": "https://github.com/serokell/srkwarrior"
   },
@@ -2746,7 +2765,7 @@
     "owner": [
       "smemsh"
     ],
-    "rating": 4,
+    "rating": 5,
     "updated": "2026-10-02",
     "url": "https://github.com/smemsh/taskwtools"
   },
