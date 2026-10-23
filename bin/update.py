@@ -32,11 +32,15 @@ DEFAULT_CATEGORIES = []
 # The number of days at which point we consider a repository dormant (3 years)
 DAYS_DORMANT = 3 * 365
 
-# Configuration loaded from the --config file. Populated in __main__ before
-# any of the data-loading functions are used.
+# Configuration loaded from the project's config.json.
+# Populated in __main__ before any of the data-loading functions are used.
 BLACKLIST_PATH = None
 INCLUDE_PATH = None
+OUTPUT_PATH = None
 TOPICS = []
+
+# The name of the per-project configuration file, located in the project directory given on the command line.
+CONFIG_FILE = "config.json"
 
 
 def log_message(message, *args, label=None):
@@ -264,7 +268,7 @@ def load_file(filepath):
 def load_config(config_path):
     """
     Load the config file and populate the module-level configuration globals
-    (BLACKLIST_PATH, INCLUDE_PATH, TOPICS, CATEGORIES, DEFAULT_CATEGORIES).
+    (BLACKLIST_PATH, INCLUDE_PATH, OUTPUT_PATH, TOPICS, CATEGORIES, DEFAULT_CATEGORIES).
 
     Relative paths in the config are resolved with respect to the directory
     containing the config file.
@@ -274,7 +278,7 @@ def load_config(config_path):
         log_error("Config file at '{}' is missing or empty", config_path)
         exit(1)
 
-    required = ("blacklist", "includes", "keywords", "categoryMap")
+    required = ("blacklist", "includes", "output", "keywords", "categoryMap")
     missing = [k for k in required if k not in config]
     if missing:
         log_error("Config at '{}' is missing keys: {}", config_path, ", ".join(missing))
@@ -282,10 +286,11 @@ def load_config(config_path):
 
     config_dir = os.path.dirname(os.path.realpath(config_path))
 
-    global BLACKLIST_PATH, INCLUDE_PATH, TOPICS, CATEGORIES, DEFAULT_CATEGORIES
+    global BLACKLIST_PATH, INCLUDE_PATH, OUTPUT_PATH, TOPICS, CATEGORIES, DEFAULT_CATEGORIES
 
     BLACKLIST_PATH = os.path.join(config_dir, config["blacklist"])
     INCLUDE_PATH = os.path.join(config_dir, config["includes"])
+    OUTPUT_PATH = os.path.join(config_dir, config["output"])
     TOPICS = list(config["keywords"])
 
     category_map = config["categoryMap"]
@@ -299,14 +304,16 @@ def load_config(config_path):
     log_debug("Config loaded from '{}'", config_path)
     log_debug("  blacklist:   {}", BLACKLIST_PATH)
     log_debug("  includes:    {}", INCLUDE_PATH)
+    log_debug("  output:      {}", OUTPUT_PATH)
     log_debug("  keywords:    {}", TOPICS)
     log_debug("  categoryMap: {} entries, default: {}", len(CATEGORIES), DEFAULT_CATEGORIES)
 
 
 def usage():
-    return ("USAGE: %s --config <path/to/config.json> [output_file]\n\n"
-            "  --config <path>  - required, path to the config JSON file\n"
-            "  output_file      - optional, defaults to stdout\n") % sys.argv[0]
+    return ("USAGE: %s <project>\n\n"
+            "  <project>  - directory containing a config.json which names the\n"
+            "               blacklist, includes and output files (paths relative\n"
+            "               to the project directory)\n") % sys.argv[0]
 
 
 if __name__ == "__main__":
@@ -318,41 +325,33 @@ if __name__ == "__main__":
         log_error("The environment variable GITHUB_API_KEY is not set!")
         exit(1)
 
-    config_path = None
-    output = None
+    project = None
 
     args = sys.argv[1:]
     while args:
         arg = args.pop(0)
-        if arg == "--config":
-            if not args:
-                log_error("--config requires a value")
-                print(usage())
-                exit(1)
-            config_path = args.pop(0)
-        elif arg in ("-h", "--help"):
+        if arg in ("-h", "--help"):
             print(usage())
             exit(0)
-        elif output is None:
-            output = arg
+        elif project is None:
+            project = arg
         else:
             log_error("Unexpected argument: {}", arg)
             print(usage())
             exit(1)
 
-    if not config_path:
-        log_error("--config is required")
+    if not project:
+        log_error("A project directory is required")
         print(usage())
         exit(1)
+    if not os.path.isdir(project):
+        log_error("'{}' is not a directory!", project)
+        exit(1)
 
-    load_config(config_path)
+    load_config(os.path.join(project, CONFIG_FILE))
 
-    if output:
-        log_debug("Will write output to {}", output)
-        output = open(output, mode="w")
-    else:
-        log_debug("Will write output to stdout")
-        output = sys.stdout
+    log_debug("Will write output to {}", OUTPUT_PATH)
+    output = open(OUTPUT_PATH, mode="w")
 
     includes = load_file(INCLUDE_PATH)
     includes["github"] = [] if "github" not in includes else includes["github"]

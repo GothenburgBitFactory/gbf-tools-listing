@@ -35,7 +35,7 @@ jobs:
           GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
           LOG_LEVEL: INFO
         run: |
-          uv run bin/update.py --config task/config.json task/tools-data.json
+          uv run bin/update.py task
 
       - name: Commit and push changes
         run: |

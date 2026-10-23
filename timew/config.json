@@ -1,6 +1,7 @@
 {
   "blacklist": "blacklist.json",
   "includes": "include.json",
+  "output": "tools-data.json",
   "keywords": ["timewarrior"],
   "categoryMap": {
     "timewarrior": ["timewarrior"],

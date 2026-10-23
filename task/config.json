@@ -1,6 +1,7 @@
 {
   "blacklist": "blacklist.json",
   "includes": "include.json",
+  "output": "tools-data.json",
   "keywords": ["taskwarrior", "taskwarrior2", "taskwarrior3", "taskserver"],
   "categoryMap": {
     "taskd": ["taskserver"],
