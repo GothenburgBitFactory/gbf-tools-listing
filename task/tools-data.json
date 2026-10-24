@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-10-22",
+    "updated": "2026-10-23",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -260,26 +260,6 @@
     "rating": 6,
     "updated": "2015-12-23",
     "url": "https://github.com/8ware/task-history-git"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Make an email in Mail.app a task with TaskWarrior and Taskopen using Applescript",
-    "dormant": true,
-    "language": [
-      "AppleScript"
-    ],
-    "license": "GNU General Public License v3.0",
-    "name": "Email-to-TaskWarrior",
-    "owner": [
-      "ABeehive"
-    ],
-    "rating": 1,
-    "updated": "2019-05-24",
-    "url": "https://github.com/ABeehive/Email-to-TaskWarrior"
   },
   {
     "archived": false,
@@ -1424,26 +1404,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "Taskwarrior integration for Github notifications",
-    "dormant": false,
-    "language": [
-      "Python"
-    ],
-    "license": "MIT License",
-    "name": "gh_taskw",
-    "owner": [
-      "Jimmy2027"
-    ],
-    "rating": 0,
-    "updated": "2025-02-15",
-    "url": "https://github.com/Jimmy2027/gh_taskw"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "Non-official thunderbird addon for creating Taskwarrior tasks from an email.",
     "dormant": true,
     "language": [
@@ -1477,26 +1437,6 @@
     "rating": 0,
     "updated": "2026-03-15",
     "url": "https://github.com/JoeyMckenzie/questlog-mcp"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Simple taskwarrior mcp written in Rust, automatic project scoping for tasks.",
-    "dormant": false,
-    "language": [
-      "Rust"
-    ],
-    "license": null,
-    "name": "taskwarrior-mcp",
-    "owner": [
-      "KaiErikNiermann"
-    ],
-    "rating": 0,
-    "updated": "2026-10-18",
-    "url": "https://github.com/KaiErikNiermann/taskwarrior-mcp"
   },
   {
     "archived": false,
@@ -2296,7 +2236,7 @@
       "Sief-Ali"
     ],
     "rating": 1,
-    "updated": "2026-10-22",
+    "updated": "2026-10-23",
     "url": "https://github.com/Sief-Ali/taskwarrior-adapter"
   },
   {
@@ -2316,8 +2256,48 @@
       "Sief-Ali"
     ],
     "rating": 1,
-    "updated": "2026-10-22",
+    "updated": "2026-10-23",
     "url": "https://github.com/Sief-Ali/taskwarrior-api"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "A Web UI for my Taskwarrior API [taskwarrior-api](https://github.com/sief-ali/taskwarrior-api)",
+    "dormant": false,
+    "language": [
+      "TypeScript"
+    ],
+    "license": null,
+    "name": "taskwarrior-web",
+    "owner": [
+      "Sief-Ali"
+    ],
+    "rating": 1,
+    "updated": "2026-10-24",
+    "url": "https://github.com/Sief-Ali/taskwarrior-web"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": null,
+    "dormant": false,
+    "language": [
+      "N/A"
+    ],
+    "license": null,
+    "name": "taskwarrior-web-monorepo",
+    "owner": [
+      "Sief-Ali"
+    ],
+    "rating": 0,
+    "updated": "2026-10-24",
+    "url": "https://github.com/Sief-Ali/taskwarrior-web-monorepo"
   },
   {
     "archived": false,
@@ -2999,6 +2979,26 @@
     "rating": 1,
     "updated": "2026-01-16",
     "url": "https://github.com/alcarney/tasgau"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskwarrior2",
+      "taskwarrior3"
+    ],
+    "description": "A taskwarrior-style command line for Org mode's agenda: short IDs, one-line actions, and your running Emacs doing all the Org work.",
+    "dormant": false,
+    "language": [
+      "Emacs Lisp"
+    ],
+    "license": "GNU General Public License v3.0",
+    "name": "orgwarrior",
+    "owner": [
+      "aleksozolins"
+    ],
+    "rating": 11,
+    "updated": "2026-10-24",
+    "url": "https://github.com/aleksozolins/orgwarrior"
   },
   {
     "archived": false,
@@ -3816,7 +3816,7 @@
     "owner": [
       "bergercookie"
     ],
-    "rating": 621,
+    "rating": 622,
     "updated": "2026-07-21",
     "url": "https://github.com/bergercookie/syncall"
   },
@@ -4202,6 +4202,26 @@
     "url": "https://github.com/bradyt/taskdsetup"
   },
   {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "Simple taskwarrior mcp written in Rust, automatic project scoping for tasks.",
+    "dormant": false,
+    "language": [
+      "Rust"
+    ],
+    "license": null,
+    "name": "taskwarrior-mcp",
+    "owner": [
+      "brh28"
+    ],
+    "rating": 0,
+    "updated": "2026-06-04",
+    "url": "https://github.com/brh28/taskwarrior-mcp"
+  },
+  {
     "archived": true,
     "category": [
       "taskserver",
@@ -4258,7 +4278,7 @@
       "brokenpip3"
     ],
     "rating": 65,
-    "updated": "2026-10-21",
+    "updated": "2026-10-23",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -5518,6 +5538,26 @@
     "rating": 1,
     "updated": "2024-12-02",
     "url": "https://github.com/dathanb/taskwarrior-focus"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "Deepwick theme for Taskwarrior",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "taskwarrior",
+    "owner": [
+      "deepwick"
+    ],
+    "rating": 0,
+    "updated": "2026-10-23",
+    "url": "https://github.com/deepwick/taskwarrior"
   },
   {
     "archived": false,
@@ -8382,26 +8422,6 @@
     "archived": false,
     "category": [
       "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Generates TaskWarrior command based on command line argument with desired TODO item",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": "MIT License",
-    "name": "TaskWarriorOpenAI",
-    "owner": [
-      "joshir3"
-    ],
-    "rating": 1,
-    "updated": "2023-05-30",
-    "url": "https://github.com/joshir3/TaskWarriorOpenAI"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
       "taskwarrior2",
       "taskwarrior3"
     ],
@@ -8698,7 +8718,7 @@
       "kantord"
     ],
     "rating": 232,
-    "updated": "2026-10-22",
+    "updated": "2026-10-23",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -9537,7 +9557,7 @@
       "linuxcaffe"
     ],
     "rating": 1,
-    "updated": "2026-10-23",
+    "updated": "2026-10-24",
     "url": "https://github.com/linuxcaffe/awesome-taskwarrior"
   },
   {
@@ -10295,7 +10315,7 @@
       "maxjoehnk"
     ],
     "rating": 27,
-    "updated": "2026-10-21",
+    "updated": "2026-10-23",
     "url": "https://github.com/maxjoehnk/sidenotes"
   },
   {
@@ -14672,7 +14692,7 @@
       "uroybd"
     ],
     "rating": 2,
-    "updated": "2026-10-22",
+    "updated": "2026-10-24",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
@@ -15030,7 +15050,7 @@
     "owner": [
       "xingheng"
     ],
-    "rating": 18,
+    "rating": 19,
     "updated": "2026-03-06",
     "url": "https://github.com/xingheng/taskwarrior-data"
   },
