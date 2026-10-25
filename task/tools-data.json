@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-10-23",
+    "updated": "2026-10-24",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -1176,7 +1176,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 822,
+    "rating": 823,
     "updated": "2026-08-27",
     "url": "https://github.com/GothenburgBitFactory/bugwarrior"
   },
@@ -2983,26 +2983,6 @@
   {
     "archived": false,
     "category": [
-      "taskwarrior2",
-      "taskwarrior3"
-    ],
-    "description": "A taskwarrior-style command line for Org mode's agenda: short IDs, one-line actions, and your running Emacs doing all the Org work.",
-    "dormant": false,
-    "language": [
-      "Emacs Lisp"
-    ],
-    "license": "GNU General Public License v3.0",
-    "name": "orgwarrior",
-    "owner": [
-      "aleksozolins"
-    ],
-    "rating": 11,
-    "updated": "2026-10-24",
-    "url": "https://github.com/aleksozolins/orgwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
       "taskserver",
       "taskwarrior2"
     ],
@@ -3179,26 +3159,6 @@
     "rating": 0,
     "updated": "2017-06-12",
     "url": "https://github.com/alo0oz/taskwarrior-polybar"
-  },
-  {
-    "archived": true,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "A tasklib clone built with Dart",
-    "dormant": true,
-    "language": [
-      "N/A"
-    ],
-    "license": "Mozilla Public License 2.0",
-    "name": "dart-taskwarrior",
-    "owner": [
-      "aloysb"
-    ],
-    "rating": 0,
-    "updated": "2023-07-04",
-    "url": "https://github.com/aloysb/dart-taskwarrior"
   },
   {
     "archived": false,
@@ -4278,7 +4238,7 @@
       "brokenpip3"
     ],
     "rating": 65,
-    "updated": "2026-10-23",
+    "updated": "2026-10-24",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4338,7 +4298,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-10-18",
+    "updated": "2026-10-25",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -4558,7 +4518,7 @@
       "catanadj"
     ],
     "rating": 31,
-    "updated": "2026-10-23",
+    "updated": "2026-10-24",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -4719,26 +4679,6 @@
     "rating": 6,
     "updated": "2019-12-31",
     "url": "https://github.com/cgardner/taskhelper"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "A tutorial for building a Taskwarrior-inspired task tracker in Go using glamorous CLI libraries",
-    "dormant": false,
-    "language": [
-      "Go"
-    ],
-    "license": "MIT License",
-    "name": "taskcli",
-    "owner": [
-      "charm-and-friends"
-    ],
-    "rating": 145,
-    "updated": "2025-06-04",
-    "url": "https://github.com/charm-and-friends/taskcli"
   },
   {
     "archived": false,
@@ -8682,26 +8622,6 @@
     "url": "https://github.com/juraph-dev/emacs-taskwarrior-export"
   },
   {
-    "archived": true,
-    "category": [
-      "taskwarrior2",
-      "taskwarrior3"
-    ],
-    "description": "Ansible-driven configuration management for maintaining a preferred environment (base system and app dotfiles / configurations)",
-    "dormant": true,
-    "language": [
-      "N/A"
-    ],
-    "license": null,
-    "name": "swiss-army",
-    "owner": [
-      "justwheel"
-    ],
-    "rating": 50,
-    "updated": "2020-08-29",
-    "url": "https://github.com/justwheel/swiss-army"
-  },
-  {
     "archived": false,
     "category": [
       "taskwarrior2",
@@ -12194,7 +12114,7 @@
       "pirj"
     ],
     "rating": 0,
-    "updated": "2026-10-21",
+    "updated": "2026-10-24",
     "url": "https://github.com/pirj/taskwarrior-squire"
   },
   {
@@ -12574,7 +12494,7 @@
       "raylin01"
     ],
     "rating": 0,
-    "updated": "2026-07-05",
+    "updated": "2026-10-25",
     "url": "https://github.com/raylin01/TaskServer"
   },
   {
