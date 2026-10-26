@@ -1007,6 +1007,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": "Toggl Desktop-style time tracking and task management bar widget for Omarchy shell (Taskwarrior + Timewarrior)",
+    "dormant": false,
+    "language": [
+      "QML"
+    ],
+    "license": "MIT License",
+    "name": "omarchy-taskwarrior",
+    "owner": [
+      "EmbeddedMhawar"
+    ],
+    "rating": 0,
+    "updated": "2026-10-25",
+    "url": "https://github.com/EmbeddedMhawar/omarchy-taskwarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": "twpm - Taskwarrior Plugin Manager",
     "dormant": false,
     "language": [
@@ -3843,26 +3863,6 @@
   {
     "archived": false,
     "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Franz Recipe for taskwarrior-web",
-    "dormant": true,
-    "language": [
-      "JavaScript"
-    ],
-    "license": null,
-    "name": "taskwarrior-web-franz-recipe",
-    "owner": [
-      "bergercookie"
-    ],
-    "rating": 0,
-    "updated": "2019-11-17",
-    "url": "https://github.com/bergercookie/taskwarrior-web-franz-recipe"
-  },
-  {
-    "archived": false,
-    "category": [
       "taskwarrior2",
       "taskwarrior3"
     ],
@@ -4238,7 +4238,7 @@
       "brokenpip3"
     ],
     "rating": 65,
-    "updated": "2026-10-24",
+    "updated": "2026-10-26",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4337,7 +4337,7 @@
     "owner": [
       "burnison"
     ],
-    "rating": 102,
+    "rating": 101,
     "updated": "2018-11-22",
     "url": "https://github.com/burnison/tasksync"
   },
@@ -6736,7 +6736,7 @@
       "garybgenett"
     ],
     "rating": 16,
-    "updated": "2026-10-22",
+    "updated": "2026-10-26",
     "url": "https://github.com/garybgenett/tasks"
   },
   {
@@ -8638,7 +8638,7 @@
       "kantord"
     ],
     "rating": 232,
-    "updated": "2026-10-23",
+    "updated": "2026-10-26",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -8698,7 +8698,7 @@
       "kdheepak"
     ],
     "rating": 2153,
-    "updated": "2026-10-18",
+    "updated": "2026-10-25",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
   {
@@ -9477,7 +9477,7 @@
       "linuxcaffe"
     ],
     "rating": 1,
-    "updated": "2026-10-24",
+    "updated": "2026-10-26",
     "url": "https://github.com/linuxcaffe/awesome-taskwarrior"
   },
   {
@@ -11775,7 +11775,7 @@
       "omniwaifu"
     ],
     "rating": 9,
-    "updated": "2026-10-23",
+    "updated": "2026-10-25",
     "url": "https://github.com/omniwaifu/taskwarrior-mcp"
   },
   {
@@ -12114,7 +12114,7 @@
       "pirj"
     ],
     "rating": 0,
-    "updated": "2026-10-24",
+    "updated": "2026-10-25",
     "url": "https://github.com/pirj/taskwarrior-squire"
   },
   {
@@ -12494,7 +12494,7 @@
       "raylin01"
     ],
     "rating": 0,
-    "updated": "2026-10-25",
+    "updated": "2026-10-26",
     "url": "https://github.com/raylin01/TaskServer"
   },
   {
@@ -13331,7 +13331,7 @@
       "slzatz"
     ],
     "rating": 0,
-    "updated": "2026-10-22",
+    "updated": "2026-10-25",
     "url": "https://github.com/slzatz/taskwarrior_macos"
   },
   {
@@ -14612,7 +14612,7 @@
       "uroybd"
     ],
     "rating": 2,
-    "updated": "2026-10-24",
+    "updated": "2026-10-25",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
