@@ -228,6 +228,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "Toggl Desktop-style time tracking and task management bar widget for Omarchy shell (Taskwarrior + Timewarrior)",
+    "dormant": false,
+    "language": [
+      "QML"
+    ],
+    "license": "MIT License",
+    "name": "omarchy-taskwarrior",
+    "owner": [
+      "EmbeddedMhawar"
+    ],
+    "rating": 0,
+    "updated": "2026-10-25",
+    "url": "https://github.com/EmbeddedMhawar/omarchy-taskwarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Extension for Timewarrior.",
     "dormant": true,
     "language": [
