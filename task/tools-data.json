@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-10-24",
+    "updated": "2026-10-28",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -1018,7 +1018,7 @@
       "EmbeddedMhawar"
     ],
     "rating": 0,
-    "updated": "2026-10-25",
+    "updated": "2026-10-29",
     "url": "https://github.com/EmbeddedMhawar/omarchy-taskwarrior"
   },
   {
@@ -3796,7 +3796,7 @@
     "owner": [
       "bergercookie"
     ],
-    "rating": 622,
+    "rating": 623,
     "updated": "2026-07-21",
     "url": "https://github.com/bergercookie/syncall"
   },
@@ -4298,7 +4298,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-10-27",
+    "updated": "2026-10-28",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -9237,7 +9237,7 @@
       "lbesnard"
     ],
     "rating": 23,
-    "updated": "2026-06-10",
+    "updated": "2026-10-29",
     "url": "https://github.com/lbesnard/task-tui"
   },
   {
@@ -9477,7 +9477,7 @@
       "linuxcaffe"
     ],
     "rating": 1,
-    "updated": "2026-10-26",
+    "updated": "2026-10-29",
     "url": "https://github.com/linuxcaffe/awesome-taskwarrior"
   },
   {
@@ -9499,6 +9499,26 @@
     "rating": 3,
     "updated": "2015-09-05",
     "url": "https://github.com/linuxcaffe/taskdata"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "The best source for the best version of task (2.6.2) on linux or android",
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": "Other",
+    "name": "taskwarrior-2.6",
+    "owner": [
+      "linuxcaffe"
+    ],
+    "rating": 0,
+    "updated": "2026-10-29",
+    "url": "https://github.com/linuxcaffe/taskwarrior-2.6"
   },
   {
     "archived": false,
@@ -10537,26 +10557,6 @@
     "rating": 0,
     "updated": "2025-05-15",
     "url": "https://github.com/mmamorim/taskServer"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Muslim prayer times for TaskWarrior",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": "MIT License",
-    "name": "AjrJihadi",
-    "owner": [
-      "mmattocks"
-    ],
-    "rating": 0,
-    "updated": "2022-02-13",
-    "url": "https://github.com/mmattocks/AjrJihadi"
   },
   {
     "archived": false,
@@ -12474,7 +12474,7 @@
       "raylin01"
     ],
     "rating": 0,
-    "updated": "2026-10-28",
+    "updated": "2026-10-29",
     "url": "https://github.com/raylin01/TaskServer"
   },
   {
@@ -14592,7 +14592,7 @@
       "uroybd"
     ],
     "rating": 2,
-    "updated": "2026-10-27",
+    "updated": "2026-10-29",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
