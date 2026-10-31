@@ -828,7 +828,7 @@
       "azagoskin"
     ],
     "rating": 3,
-    "updated": "2026-10-19",
+    "updated": "2026-10-30",
     "url": "https://github.com/azagoskin/timewarrior-tui"
   },
   {
@@ -2604,7 +2604,7 @@
       "timewarrior"
     ],
     "description": null,
-    "dormant": false,
+    "dormant": true,
     "language": [
       "Rust"
     ],
