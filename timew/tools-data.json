@@ -1485,7 +1485,7 @@
     "description": "Sync worklogs between multiple time trackers, invoicing, and bookkeeping software.",
     "dormant": false,
     "language": [
-      "Go"
+      "Rust"
     ],
     "license": "MIT License",
     "name": "minutes",
@@ -1493,7 +1493,7 @@
       "gabor-boros"
     ],
     "rating": 31,
-    "updated": "2026-09-03",
+    "updated": "2026-10-31",
     "url": "https://github.com/gabor-boros/minutes"
   },
   {
