@@ -1701,7 +1701,7 @@
     "owner": [
       "janfrode"
     ],
-    "rating": 3,
+    "rating": 4,
     "updated": "2026-09-17",
     "url": "https://github.com/janfrode/Arete"
   },
@@ -1777,7 +1777,7 @@
     "owner": [
       "jonix"
     ],
-    "rating": 2,
+    "rating": 3,
     "updated": "2025-11-28",
     "url": "https://github.com/jonix/Mensura"
   },
@@ -1970,6 +1970,25 @@
     "rating": 3,
     "updated": "2026-05-26",
     "url": "https://github.com/luizferw/timewarrior-tui"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
+    "description": "HTTP API and web page for timewarrior, behind Cloudflare Access",
+    "dormant": false,
+    "language": [
+      "Go"
+    ],
+    "license": null,
+    "name": "timew-api",
+    "owner": [
+      "lurraca"
+    ],
+    "rating": 0,
+    "updated": "2026-11-01",
+    "url": "https://github.com/lurraca/timew-api"
   },
   {
     "archived": false,
