@@ -285,6 +285,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "A set of reports to make use of timewarrior for people that only see things with colors. Like me.",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "GNU General Public License v3.0",
+    "name": "timewarrior_reports",
+    "owner": [
+      "Fubukimaru"
+    ],
+    "rating": 0,
+    "updated": "2026-11-03",
+    "url": "https://github.com/Fubukimaru/timewarrior_reports"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": null,
     "dormant": false,
     "language": [
