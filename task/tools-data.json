@@ -758,7 +758,7 @@
       "DCsunset"
     ],
     "rating": 256,
-    "updated": "2026-10-20",
+    "updated": "2026-11-04",
     "url": "https://github.com/DCsunset/taskwarrior-webui"
   },
   {
@@ -1934,7 +1934,7 @@
     "owner": [
       "OsamaMahmood"
     ],
-    "rating": 17,
+    "rating": 18,
     "updated": "2026-07-20",
     "url": "https://github.com/OsamaMahmood/lazytask"
   },
@@ -3796,7 +3796,7 @@
     "owner": [
       "bergercookie"
     ],
-    "rating": 624,
+    "rating": 626,
     "updated": "2026-07-21",
     "url": "https://github.com/bergercookie/syncall"
   },
@@ -6642,26 +6642,6 @@
   {
     "archived": false,
     "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "GTD automation script for Taskwarrior",
-    "dormant": true,
-    "language": [
-      "Shell"
-    ],
-    "license": null,
-    "name": "twgtd",
-    "owner": [
-      "functioncreep"
-    ],
-    "rating": 0,
-    "updated": "2018-04-04",
-    "url": "https://github.com/functioncreep/twgtd"
-  },
-  {
-    "archived": false,
-    "category": [
       "taskwarrior2",
       "taskwarrior3"
     ],
@@ -6735,7 +6715,7 @@
     "owner": [
       "garybgenett"
     ],
-    "rating": 16,
+    "rating": 17,
     "updated": "2026-10-26",
     "url": "https://github.com/garybgenett/tasks"
   },
@@ -6976,7 +6956,7 @@
       "grovesteyn"
     ],
     "rating": 35,
-    "updated": "2024-05-24",
+    "updated": "2026-11-04",
     "url": "https://github.com/grovesteyn/tchart"
   },
   {
@@ -8497,7 +8477,7 @@
     "owner": [
       "jschlatow"
     ],
-    "rating": 439,
+    "rating": 440,
     "updated": "2026-05-21",
     "url": "https://github.com/jschlatow/taskopen"
   },
@@ -8697,7 +8677,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2155,
+    "rating": 2156,
     "updated": "2026-11-02",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -9426,6 +9406,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": "injecting trello steroids to taskwarrior",
+    "dormant": true,
+    "language": [
+      "N/A"
+    ],
+    "license": "MIT License",
+    "name": "battleground",
+    "owner": [
+      "linkux-it"
+    ],
+    "rating": 1,
+    "updated": "2015-06-27",
+    "url": "https://github.com/linkux-it/battleground"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": "A taskwarrior hook that enables automatic and multi-line annotations.",
     "dormant": false,
     "language": [
@@ -9437,7 +9437,7 @@
       "linuxcaffe"
     ],
     "rating": 7,
-    "updated": "2026-11-01",
+    "updated": "2026-11-04",
     "url": "https://github.com/linuxcaffe/annnotate"
   },
   {
@@ -9457,7 +9457,7 @@
       "linuxcaffe"
     ],
     "rating": 1,
-    "updated": "2026-11-03",
+    "updated": "2026-11-05",
     "url": "https://github.com/linuxcaffe/awesome-taskwarrior"
   },
   {
@@ -9557,7 +9557,7 @@
       "linuxcaffe"
     ],
     "rating": 4,
-    "updated": "2026-04-03",
+    "updated": "2026-11-04",
     "url": "https://github.com/linuxcaffe/tw-sched-sh"
   },
   {
@@ -9597,7 +9597,7 @@
       "linuxcaffe"
     ],
     "rating": 6,
-    "updated": "2026-10-13",
+    "updated": "2026-11-04",
     "url": "https://github.com/linuxcaffe/tw-timelog-hook"
   },
   {
@@ -12358,6 +12358,26 @@
     "url": "https://github.com/radarsymphony/taskwarrior-hooks"
   },
   {
+    "archived": true,
+    "category": [
+      "taskwarrior2",
+      "taskwarrior3"
+    ],
+    "description": "TaskWarrior source for Denite.  List, view, and preview tasks from Neo/Vim",
+    "dormant": true,
+    "language": [
+      "Python"
+    ],
+    "license": null,
+    "name": "vim-denite-task",
+    "owner": [
+      "rafi"
+    ],
+    "rating": 2,
+    "updated": "2017-05-15",
+    "url": "https://github.com/rafi/vim-denite-task"
+  },
+  {
     "archived": false,
     "category": [
       "taskserver",
@@ -13311,7 +13331,7 @@
       "snonux"
     ],
     "rating": 2,
-    "updated": "2026-10-30",
+    "updated": "2026-11-05",
     "url": "https://github.com/snonux/tasksamurai"
   },
   {
@@ -14072,7 +14092,7 @@
       "timcase"
     ],
     "rating": 2,
-    "updated": "2026-10-22",
+    "updated": "2026-11-04",
     "url": "https://github.com/timcase/taskchampion-rb"
   },
   {
@@ -14531,8 +14551,8 @@
     "owner": [
       "uroybd"
     ],
-    "rating": 2,
-    "updated": "2026-11-03",
+    "rating": 3,
+    "updated": "2026-11-04",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
