@@ -97,7 +97,7 @@
     "owner": [
       "00sapo"
     ],
-    "rating": 41,
+    "rating": 42,
     "updated": "2026-10-18",
     "url": "https://github.com/00sapo/taskcheck"
   },
@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-11-03",
+    "updated": "2026-11-05",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -4237,7 +4237,7 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 66,
+    "rating": 67,
     "updated": "2026-11-03",
     "url": "https://github.com/brokenpip3/fatto"
   },
@@ -4298,7 +4298,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-11-03",
+    "updated": "2026-11-05",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -6048,6 +6048,26 @@
     "description": null,
     "dormant": false,
     "language": [
+      "Rust"
+    ],
+    "license": null,
+    "name": "aw-taskwarrior",
+    "owner": [
+      "emirhg"
+    ],
+    "rating": 0,
+    "updated": "2026-11-06",
+    "url": "https://github.com/emirhg/aw-taskwarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": null,
+    "dormant": false,
+    "language": [
       "Python"
     ],
     "license": null,
@@ -6956,7 +6976,7 @@
       "grovesteyn"
     ],
     "rating": 35,
-    "updated": "2026-11-04",
+    "updated": "2026-11-06",
     "url": "https://github.com/grovesteyn/tchart"
   },
   {
@@ -8618,7 +8638,7 @@
       "kantord"
     ],
     "rating": 232,
-    "updated": "2026-11-02",
+    "updated": "2026-11-05",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -9197,7 +9217,7 @@
       "lbesnard"
     ],
     "rating": 23,
-    "updated": "2026-11-04",
+    "updated": "2026-11-06",
     "url": "https://github.com/lbesnard/task-tui"
   },
   {
@@ -9406,26 +9426,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "injecting trello steroids to taskwarrior",
-    "dormant": true,
-    "language": [
-      "N/A"
-    ],
-    "license": "MIT License",
-    "name": "battleground",
-    "owner": [
-      "linkux-it"
-    ],
-    "rating": 1,
-    "updated": "2015-06-27",
-    "url": "https://github.com/linkux-it/battleground"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "A taskwarrior hook that enables automatic and multi-line annotations.",
     "dormant": false,
     "language": [
@@ -9437,7 +9437,7 @@
       "linuxcaffe"
     ],
     "rating": 7,
-    "updated": "2026-11-04",
+    "updated": "2026-11-06",
     "url": "https://github.com/linuxcaffe/annnotate"
   },
   {
@@ -9457,7 +9457,7 @@
       "linuxcaffe"
     ],
     "rating": 1,
-    "updated": "2026-11-05",
+    "updated": "2026-11-06",
     "url": "https://github.com/linuxcaffe/awesome-taskwarrior"
   },
   {
@@ -9517,7 +9517,7 @@
       "linuxcaffe"
     ],
     "rating": 4,
-    "updated": "2026-10-31",
+    "updated": "2026-11-06",
     "url": "https://github.com/linuxcaffe/tw-hledger-add-hook"
   },
   {
@@ -9597,7 +9597,7 @@
       "linuxcaffe"
     ],
     "rating": 6,
-    "updated": "2026-11-04",
+    "updated": "2026-11-06",
     "url": "https://github.com/linuxcaffe/tw-timelog-hook"
   },
   {
@@ -11715,7 +11715,7 @@
       "omniwaifu"
     ],
     "rating": 10,
-    "updated": "2026-10-30",
+    "updated": "2026-11-05",
     "url": "https://github.com/omniwaifu/taskwarrior-mcp"
   },
   {
@@ -15073,7 +15073,7 @@
       "yiwenlu66"
     ],
     "rating": 0,
-    "updated": "2026-11-02",
+    "updated": "2026-11-06",
     "url": "https://github.com/yiwenlu66/taskwarrior-web"
   },
   {
