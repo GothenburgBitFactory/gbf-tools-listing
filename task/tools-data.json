@@ -557,7 +557,7 @@
       "CCExtractor"
     ],
     "rating": 36,
-    "updated": "2026-09-13",
+    "updated": "2026-11-09",
     "url": "https://github.com/CCExtractor/ccsync"
   },
   {
@@ -1774,7 +1774,7 @@
     "owner": [
       "Miuler"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2026-07-31",
     "url": "https://github.com/Miuler/taskwarrior_hooks"
   },
@@ -3137,7 +3137,7 @@
       "allgreed"
     ],
     "rating": 1,
-    "updated": "2026-02-25",
+    "updated": "2026-11-09",
     "url": "https://github.com/allgreed/cron"
   },
   {
@@ -4278,7 +4278,7 @@
       "brokenpip3"
     ],
     "rating": 68,
-    "updated": "2026-11-07",
+    "updated": "2026-11-09",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4558,7 +4558,7 @@
       "catanadj"
     ],
     "rating": 31,
-    "updated": "2026-11-07",
+    "updated": "2026-11-08",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -6096,7 +6096,7 @@
       "emirhg"
     ],
     "rating": 0,
-    "updated": "2026-11-06",
+    "updated": "2026-11-09",
     "url": "https://github.com/emirhg/aw-taskwarrior"
   },
   {
@@ -8144,6 +8144,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": null,
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "tinted-taskwarrior",
+    "owner": [
+      "jfishe"
+    ],
+    "rating": 0,
+    "updated": "2026-11-08",
+    "url": "https://github.com/jfishe/tinted-taskwarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": "Hook for Taskwarrior that records a log of time spent each day on each task",
     "dormant": true,
     "language": [
@@ -9997,7 +10017,7 @@
       "marriagav"
     ],
     "rating": 82,
-    "updated": "2026-11-07",
+    "updated": "2026-11-08",
     "url": "https://github.com/marriagav/taskchamp"
   },
   {
@@ -11735,7 +11755,7 @@
       "omniwaifu"
     ],
     "rating": 10,
-    "updated": "2026-11-05",
+    "updated": "2026-11-08",
     "url": "https://github.com/omniwaifu/taskwarrior-mcp"
   },
   {
@@ -12376,26 +12396,6 @@
     "rating": 2,
     "updated": "2026-10-06",
     "url": "https://github.com/radarsymphony/taskwarrior-hooks"
-  },
-  {
-    "archived": true,
-    "category": [
-      "taskwarrior2",
-      "taskwarrior3"
-    ],
-    "description": "TaskWarrior source for Denite.  List, view, and preview tasks from Neo/Vim",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "vim-denite-task",
-    "owner": [
-      "rafi"
-    ],
-    "rating": 2,
-    "updated": "2017-05-15",
-    "url": "https://github.com/rafi/vim-denite-task"
   },
   {
     "archived": false,
