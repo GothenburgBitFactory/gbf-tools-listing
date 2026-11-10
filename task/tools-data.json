@@ -98,7 +98,7 @@
       "00sapo"
     ],
     "rating": 42,
-    "updated": "2026-10-18",
+    "updated": "2026-11-09",
     "url": "https://github.com/00sapo/taskcheck"
   },
   {
@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-11-05",
+    "updated": "2026-11-09",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -300,6 +300,26 @@
     "rating": 0,
     "updated": "2026-10-23",
     "url": "https://github.com/ALEENA-SUNNY/student_taskserver"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": null,
+    "dormant": false,
+    "language": [
+      "TypeScript"
+    ],
+    "license": null,
+    "name": "taskwarrior-task-management-skill",
+    "owner": [
+      "Adictya"
+    ],
+    "rating": 0,
+    "updated": "2026-04-13",
+    "url": "https://github.com/Adictya/taskwarrior-task-management-skill"
   },
   {
     "archived": false,
@@ -2907,7 +2927,7 @@
       "taskwarrior2"
     ],
     "description": "Android integration of Taskwarrior ",
-    "dormant": false,
+    "dormant": true,
     "language": [
       "Shell"
     ],
@@ -3757,7 +3777,7 @@
       "bahiamovementcenter"
     ],
     "rating": 0,
-    "updated": "2026-11-08",
+    "updated": "2026-11-09",
     "url": "https://github.com/bahiamovementcenter/WhatsApp-Taskwarrior"
   },
   {
@@ -4338,7 +4358,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-11-05",
+    "updated": "2026-11-09",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -6725,26 +6745,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "Docker image for taskwarrior web portal for use in Unraid",
-    "dormant": false,
-    "language": [
-      "Shell"
-    ],
-    "license": "MIT License",
-    "name": "taskwarrior-web-portal-docker",
-    "owner": [
-      "furan917"
-    ],
-    "rating": 1,
-    "updated": "2026-09-23",
-    "url": "https://github.com/furan917/taskwarrior-web-portal-docker"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": null,
     "dormant": false,
     "language": [
@@ -8155,7 +8155,7 @@
       "jfishe"
     ],
     "rating": 0,
-    "updated": "2026-11-08",
+    "updated": "2026-11-09",
     "url": "https://github.com/jfishe/tinted-taskwarrior"
   },
   {
@@ -8758,7 +8758,7 @@
       "kdheepak"
     ],
     "rating": 2156,
-    "updated": "2026-11-08",
+    "updated": "2026-11-09",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
   {
@@ -9277,7 +9277,7 @@
       "lbesnard"
     ],
     "rating": 23,
-    "updated": "2026-11-06",
+    "updated": "2026-11-10",
     "url": "https://github.com/lbesnard/task-tui"
   },
   {
@@ -11754,8 +11754,8 @@
     "owner": [
       "omniwaifu"
     ],
-    "rating": 10,
-    "updated": "2026-11-08",
+    "rating": 11,
+    "updated": "2026-11-10",
     "url": "https://github.com/omniwaifu/taskwarrior-mcp"
   },
   {
@@ -13792,7 +13792,7 @@
       "taskdroid"
     ],
     "rating": 27,
-    "updated": "2026-10-22",
+    "updated": "2026-11-10",
     "url": "https://github.com/taskdroid/taskdroid"
   },
   {
@@ -13911,7 +13911,7 @@
     "owner": [
       "tbabej"
     ],
-    "rating": 916,
+    "rating": 917,
     "updated": "2025-06-14",
     "url": "https://github.com/tbabej/taskwiki"
   },
@@ -14101,26 +14101,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "Ruby bindings for TaskChampion, the task database that powers Taskwarrior.",
-    "dormant": false,
-    "language": [
-      "Ruby"
-    ],
-    "license": null,
-    "name": "taskchampion-rb",
-    "owner": [
-      "timcase"
-    ],
-    "rating": 2,
-    "updated": "2026-11-04",
-    "url": "https://github.com/timcase/taskchampion-rb"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "Agent skill for using taskwarrior cli",
     "dormant": false,
     "language": [
@@ -14151,7 +14131,7 @@
     "owner": [
       "tmahmood"
     ],
-    "rating": 208,
+    "rating": 209,
     "updated": "2026-03-19",
     "url": "https://github.com/tmahmood/taskwarrior-web"
   },
