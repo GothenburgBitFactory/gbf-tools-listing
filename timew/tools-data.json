@@ -1064,6 +1064,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": "minimal debian setup with dwm",
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": null,
+    "name": "minx",
+    "owner": [
+      "clopezc-gmx"
+    ],
+    "rating": 0,
+    "updated": "2026-11-13",
+    "url": "https://github.com/clopezc-gmx/minx"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "Docker environment for taskwarrior/timewarrior/etc.",
     "dormant": false,
     "language": [
