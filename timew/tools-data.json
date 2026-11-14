@@ -447,7 +447,7 @@
     "owner": [
       "Spreadcat"
     ],
-    "rating": 2,
+    "rating": 1,
     "updated": "2025-10-16",
     "url": "https://github.com/Spreadcat/ansible-role-timewarrior"
   },
@@ -1075,7 +1075,7 @@
       "clopezc-gmx"
     ],
     "rating": 0,
-    "updated": "2026-11-13",
+    "updated": "2026-11-14",
     "url": "https://github.com/clopezc-gmx/minx"
   },
   {
@@ -1739,7 +1739,7 @@
     "owner": [
       "janfrode"
     ],
-    "rating": 4,
+    "rating": 5,
     "updated": "2026-09-17",
     "url": "https://github.com/janfrode/Arete"
   },
