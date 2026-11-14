@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-11-11",
+    "updated": "2026-11-13",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -757,7 +757,7 @@
     "owner": [
       "DCsunset"
     ],
-    "rating": 256,
+    "rating": 257,
     "updated": "2026-11-04",
     "url": "https://github.com/DCsunset/taskwarrior-webui"
   },
@@ -1196,7 +1196,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 825,
+    "rating": 826,
     "updated": "2026-10-27",
     "url": "https://github.com/GothenburgBitFactory/bugwarrior"
   },
@@ -1235,7 +1235,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 96,
+    "rating": 97,
     "updated": "2024-05-26",
     "url": "https://github.com/GothenburgBitFactory/taskshell"
   },
@@ -6545,6 +6545,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": "Yet another Taskwarrior time-tracker",
+    "dormant": true,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "yatwtt",
+    "owner": [
+      "fmeynadier"
+    ],
+    "rating": 1,
+    "updated": "2016-02-11",
+    "url": "https://github.com/fmeynadier/yatwtt"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -7098,6 +7118,26 @@
     "rating": 0,
     "updated": "2026-03-21",
     "url": "https://github.com/hdp1972be-svg/taskwarrior-build"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": null,
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": null,
+    "name": "taskwarrior-tui-build-repo",
+    "owner": [
+      "hdp1972be-svg"
+    ],
+    "rating": 0,
+    "updated": "2026-03-22",
+    "url": "https://github.com/hdp1972be-svg/taskwarrior-tui-build-repo"
   },
   {
     "archived": false,
@@ -8115,7 +8155,7 @@
       "jfishe"
     ],
     "rating": 0,
-    "updated": "2026-11-09",
+    "updated": "2026-11-13",
     "url": "https://github.com/jfishe/tinted-taskwarrior"
   },
   {
@@ -8657,7 +8697,7 @@
     "owner": [
       "kantord"
     ],
-    "rating": 232,
+    "rating": 233,
     "updated": "2026-11-07",
     "url": "https://github.com/kantord/blogtato"
   },
@@ -8717,7 +8757,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2157,
+    "rating": 2158,
     "updated": "2026-11-09",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -9096,7 +9136,7 @@
     "owner": [
       "kungfusaini"
     ],
-    "rating": 1,
+    "rating": 2,
     "updated": "2025-12-09",
     "url": "https://github.com/kungfusaini/taskwarrior-gruvbox"
   },
@@ -10873,7 +10913,7 @@
     "owner": [
       "mrVanDalo"
     ],
-    "rating": 1,
+    "rating": 2,
     "updated": "2026-07-09",
     "url": "https://github.com/mrVanDalo/taskwarrior-flake"
   },
@@ -10996,26 +11036,6 @@
     "rating": 0,
     "updated": "2021-11-06",
     "url": "https://github.com/mshorty/docker-taskserver"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "a application wrapper for taskwarrior terminal application",
-    "dormant": false,
-    "language": [
-      "Shell"
-    ],
-    "license": null,
-    "name": "Wrapper_for_TaskWarrior",
-    "owner": [
-      "muazzammullah"
-    ],
-    "rating": 0,
-    "updated": "2023-12-30",
-    "url": "https://github.com/muazzammullah/Wrapper_for_TaskWarrior"
   },
   {
     "archived": false,
@@ -11296,26 +11316,6 @@
     "rating": 17,
     "updated": "2021-04-30",
     "url": "https://github.com/nerab/twmail"
-  },
-  {
-    "archived": true,
-    "category": [
-      "taskwarrior2",
-      "taskwarrior3"
-    ],
-    "description": "Helpers for writing TaskWarrior tests in Ruby",
-    "dormant": true,
-    "language": [
-      "Ruby"
-    ],
-    "license": "MIT License",
-    "name": "twtest",
-    "owner": [
-      "nerab"
-    ],
-    "rating": 0,
-    "updated": "2021-04-30",
-    "url": "https://github.com/nerab/twtest"
   },
   {
     "archived": false,
@@ -13291,7 +13291,7 @@
       "slzatz"
     ],
     "rating": 0,
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "url": "https://github.com/slzatz/taskwarrior_macos"
   },
   {
@@ -14572,7 +14572,7 @@
       "uroybd"
     ],
     "rating": 4,
-    "updated": "2026-11-12",
+    "updated": "2026-11-13",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
