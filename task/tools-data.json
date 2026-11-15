@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-11-13",
+    "updated": "2026-11-14",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -558,7 +558,7 @@
       "BerkeleyTrue"
     ],
     "rating": 2,
-    "updated": "2026-04-11",
+    "updated": "2026-11-14",
     "url": "https://github.com/BerkeleyTrue/taskbane"
   },
   {
@@ -1215,7 +1215,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 158,
+    "rating": 159,
     "updated": "2024-07-28",
     "url": "https://github.com/GothenburgBitFactory/tasklib"
   },
@@ -1374,7 +1374,7 @@
     "owner": [
       "HusnainTaseer"
     ],
-    "rating": 2,
+    "rating": 3,
     "updated": "2026-09-02",
     "url": "https://github.com/HusnainTaseer/taskwarrior-ui"
   },
@@ -2516,7 +2516,7 @@
       "Wright4TheJob"
     ],
     "rating": 1,
-    "updated": "2026-11-13",
+    "updated": "2026-11-14",
     "url": "https://github.com/Wright4TheJob/taskwarrior-graph"
   },
   {
@@ -3777,7 +3777,7 @@
       "bahiamovementcenter"
     ],
     "rating": 0,
-    "updated": "2026-11-11",
+    "updated": "2026-11-15",
     "url": "https://github.com/bahiamovementcenter/WhatsApp-Taskwarrior"
   },
   {
@@ -3856,7 +3856,7 @@
     "owner": [
       "bergercookie"
     ],
-    "rating": 626,
+    "rating": 627,
     "updated": "2026-07-21",
     "url": "https://github.com/bergercookie/syncall"
   },
@@ -4297,7 +4297,7 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 68,
+    "rating": 69,
     "updated": "2026-11-09",
     "url": "https://github.com/brokenpip3/fatto"
   },
@@ -4358,7 +4358,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-11-09",
+    "updated": "2026-11-15",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -6545,26 +6545,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "Yet another Taskwarrior time-tracker",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": "MIT License",
-    "name": "yatwtt",
-    "owner": [
-      "fmeynadier"
-    ],
-    "rating": 1,
-    "updated": "2016-02-11",
-    "url": "https://github.com/fmeynadier/yatwtt"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -8155,7 +8135,7 @@
       "jfishe"
     ],
     "rating": 0,
-    "updated": "2026-11-13",
+    "updated": "2026-11-15",
     "url": "https://github.com/jfishe/tinted-taskwarrior"
   },
   {
@@ -8617,7 +8597,7 @@
     "owner": [
       "jubnzv"
     ],
-    "rating": 36,
+    "rating": 37,
     "updated": "2023-07-16",
     "url": "https://github.com/jubnzv/go-taskwarrior"
   },
@@ -8698,7 +8678,7 @@
       "kantord"
     ],
     "rating": 233,
-    "updated": "2026-11-07",
+    "updated": "2026-11-15",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -11318,6 +11298,26 @@
     "url": "https://github.com/nerab/twmail"
   },
   {
+    "archived": true,
+    "category": [
+      "taskwarrior2",
+      "taskwarrior3"
+    ],
+    "description": "Helpers for writing TaskWarrior tests in Ruby",
+    "dormant": true,
+    "language": [
+      "Ruby"
+    ],
+    "license": "MIT License",
+    "name": "twtest",
+    "owner": [
+      "nerab"
+    ],
+    "rating": 0,
+    "updated": "2021-04-30",
+    "url": "https://github.com/nerab/twtest"
+  },
+  {
     "archived": false,
     "category": [
       "taskwarrior2",
@@ -13291,7 +13291,7 @@
       "slzatz"
     ],
     "rating": 0,
-    "updated": "2026-11-13",
+    "updated": "2026-11-14",
     "url": "https://github.com/slzatz/taskwarrior_macos"
   },
   {
@@ -13351,7 +13351,7 @@
       "snonux"
     ],
     "rating": 2,
-    "updated": "2026-11-06",
+    "updated": "2026-11-14",
     "url": "https://github.com/snonux/tasksamurai"
   },
   {
@@ -14131,7 +14131,7 @@
     "owner": [
       "timcase"
     ],
-    "rating": 10,
+    "rating": 11,
     "updated": "2026-03-03",
     "url": "https://github.com/timcase/taskwarrior-agent-skill"
   },
@@ -14572,7 +14572,7 @@
       "uroybd"
     ],
     "rating": 4,
-    "updated": "2026-11-13",
+    "updated": "2026-11-14",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
@@ -14671,7 +14671,7 @@
     "owner": [
       "vit-project"
     ],
-    "rating": 587,
+    "rating": 588,
     "updated": "2026-11-10",
     "url": "https://github.com/vit-project/vit"
   },
