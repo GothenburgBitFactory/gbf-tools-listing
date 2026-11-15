@@ -26,6 +26,7 @@
     "https://github.com/bizkite-co/cocli": "has not a clear relation to Timewarrior",
     "https://github.com/bretwardjames/tw-bridge": "does not seem to use Timewarrior",
     "https://github.com/cazou/timewarrior-rs": "is a reimplementation of Timewarrior",
+    "https://github.com/clopezc-gmx/minx": "has no clear relation to Timewarrior",
     "https://github.com/davidbgonz/timewarrior": "has no apparent relation to Timewarrior (yet)",
     "https://github.com/drcoccodrillus/snap-timewarrior": "is just a Snap file for Timewarrior",
     "https://github.com/f1redf0x/on-modify.timewarrior": "just a copy of the on-modify.timewarrior hook",
