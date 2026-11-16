@@ -304,26 +304,6 @@
   {
     "archived": false,
     "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": null,
-    "dormant": false,
-    "language": [
-      "TypeScript"
-    ],
-    "license": null,
-    "name": "taskwarrior-task-management-skill",
-    "owner": [
-      "Adictya"
-    ],
-    "rating": 0,
-    "updated": "2026-04-13",
-    "url": "https://github.com/Adictya/taskwarrior-task-management-skill"
-  },
-  {
-    "archived": false,
-    "category": [
       "taskwarrior2",
       "taskwarrior3"
     ],
@@ -2385,26 +2365,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": null,
-    "dormant": false,
-    "language": [
-      "N/A"
-    ],
-    "license": null,
-    "name": "taskwarrior-flutter",
-    "owner": [
-      "Starhunter2b"
-    ],
-    "rating": 8,
-    "updated": "2026-03-30",
-    "url": "https://github.com/Starhunter2b/taskwarrior-flutter"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "Fork of https://git.webmeisterei.com/webmeisterei/todoist-taskwarrior (which is a fork of https://github.com/matt-snider/todoist-taskwarrior)",
     "dormant": false,
     "language": [
@@ -2418,26 +2378,6 @@
     "rating": 0,
     "updated": "2026-05-08",
     "url": "https://github.com/StefanBRas/todoist-taskwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": null,
-    "dormant": false,
-    "language": [
-      "Go"
-    ],
-    "license": null,
-    "name": "taskwarrior",
-    "owner": [
-      "TurnpikeWarrior"
-    ],
-    "rating": 0,
-    "updated": "2026-11-08",
-    "url": "https://github.com/TurnpikeWarrior/taskwarrior"
   },
   {
     "archived": false,
@@ -3857,7 +3797,7 @@
       "bergercookie"
     ],
     "rating": 627,
-    "updated": "2026-07-21",
+    "updated": "2026-11-15",
     "url": "https://github.com/bergercookie/syncall"
   },
   {
@@ -4076,7 +4016,7 @@
     "owner": [
       "blampe"
     ],
-    "rating": 97,
+    "rating": 98,
     "updated": "2023-04-04",
     "url": "https://github.com/blampe/taskwarrior-reminders"
   },
@@ -4298,7 +4238,7 @@
       "brokenpip3"
     ],
     "rating": 69,
-    "updated": "2026-11-09",
+    "updated": "2026-11-16",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4358,7 +4298,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-11-15",
+    "updated": "2026-11-16",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -4578,7 +4518,7 @@
       "catanadj"
     ],
     "rating": 31,
-    "updated": "2026-11-08",
+    "updated": "2026-11-15",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -8124,7 +8064,7 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": null,
+    "description": "Remote tinty template that themes Taskwarrior from the current tinty scheme (base16, base24, tinted8).",
     "dormant": false,
     "language": [
       "Python"
@@ -8637,7 +8577,7 @@
     "owner": [
       "juli-dot-md"
     ],
-    "rating": 11,
+    "rating": 12,
     "updated": "2024-08-13",
     "url": "https://github.com/juli-dot-md/taskwarrior2todo.txt"
   },
@@ -8738,7 +8678,7 @@
       "kdheepak"
     ],
     "rating": 2158,
-    "updated": "2026-11-09",
+    "updated": "2026-11-15",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
   {
@@ -9257,7 +9197,7 @@
       "lbesnard"
     ],
     "rating": 23,
-    "updated": "2026-11-10",
+    "updated": "2026-11-16",
     "url": "https://github.com/lbesnard/task-tui"
   },
   {
@@ -11023,6 +10963,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": "a application wrapper for taskwarrior terminal application",
+    "dormant": false,
+    "language": [
+      "Shell"
+    ],
+    "license": null,
+    "name": "Wrapper_for_TaskWarrior",
+    "owner": [
+      "muazzammullah"
+    ],
+    "rating": 0,
+    "updated": "2023-12-30",
+    "url": "https://github.com/muazzammullah/Wrapper_for_TaskWarrior"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": "A tool to interact with taskwarrior quicklky",
     "dormant": true,
     "language": [
@@ -11336,26 +11296,6 @@
     "rating": 8,
     "updated": "2019-05-29",
     "url": "https://github.com/neuhalje/notmuch-task"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "taskwarrior data",
-    "dormant": false,
-    "language": [
-      "N/A"
-    ],
-    "license": null,
-    "name": "taskwarrior_data",
-    "owner": [
-      "nhorman"
-    ],
-    "rating": 0,
-    "updated": "2026-11-10",
-    "url": "https://github.com/nhorman/taskwarrior_data"
   },
   {
     "archived": false,
@@ -11755,7 +11695,7 @@
       "omniwaifu"
     ],
     "rating": 11,
-    "updated": "2026-11-10",
+    "updated": "2026-11-15",
     "url": "https://github.com/omniwaifu/taskwarrior-mcp"
   },
   {
@@ -13792,7 +13732,7 @@
       "taskdroid"
     ],
     "rating": 27,
-    "updated": "2026-11-10",
+    "updated": "2026-11-16",
     "url": "https://github.com/taskdroid/taskdroid"
   },
   {
@@ -14572,7 +14512,7 @@
       "uroybd"
     ],
     "rating": 4,
-    "updated": "2026-11-14",
+    "updated": "2026-11-15",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
