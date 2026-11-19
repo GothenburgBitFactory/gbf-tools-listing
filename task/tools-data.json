@@ -2515,7 +2515,7 @@
     "owner": [
       "Yikizi"
     ],
-    "rating": 0,
+    "rating": 1,
     "updated": "2026-01-01",
     "url": "https://github.com/Yikizi/taskwarrior-reminders-sync"
   },
@@ -3726,26 +3726,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "AI Micro-task-manager ",
-    "dormant": false,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "WhatsApp-Taskwarrior",
-    "owner": [
-      "bahiamovementcenter"
-    ],
-    "rating": 0,
-    "updated": "2026-11-15",
-    "url": "https://github.com/bahiamovementcenter/WhatsApp-Taskwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "simple taskwarrior integration into xmobar",
     "dormant": true,
     "language": [
@@ -4257,8 +4237,8 @@
     "owner": [
       "brokenpip3"
     ],
-    "rating": 69,
-    "updated": "2026-11-17",
+    "rating": 70,
+    "updated": "2026-11-18",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4318,7 +4298,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-11-16",
+    "updated": "2026-11-18",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -4538,7 +4518,7 @@
       "catanadj"
     ],
     "rating": 31,
-    "updated": "2026-11-15",
+    "updated": "2026-11-18",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -5278,6 +5258,26 @@
     "rating": 5,
     "updated": "2022-08-19",
     "url": "https://github.com/contrun/taskwarrior-terminal-kanban"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
+    "description": "AI Micro-task-manager ",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": null,
+    "name": "WhatsApp-Taskwarrior",
+    "owner": [
+      "costacombat"
+    ],
+    "rating": 0,
+    "updated": "2026-11-15",
+    "url": "https://github.com/costacombat/WhatsApp-Taskwarrior"
   },
   {
     "archived": false,
@@ -8638,7 +8638,7 @@
       "kantord"
     ],
     "rating": 233,
-    "updated": "2026-11-17",
+    "updated": "2026-11-18",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -8697,7 +8697,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2159,
+    "rating": 2160,
     "updated": "2026-11-15",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -9217,7 +9217,7 @@
       "lbesnard"
     ],
     "rating": 23,
-    "updated": "2026-11-17",
+    "updated": "2026-11-19",
     "url": "https://github.com/lbesnard/task-tui"
   },
   {
@@ -13251,7 +13251,7 @@
       "slzatz"
     ],
     "rating": 0,
-    "updated": "2026-11-14",
+    "updated": "2026-11-19",
     "url": "https://github.com/slzatz/taskwarrior_macos"
   },
   {
@@ -14532,7 +14532,7 @@
       "uroybd"
     ],
     "rating": 4,
-    "updated": "2026-11-18",
+    "updated": "2026-11-19",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
