@@ -1,0 +1,43 @@
+# Run the tools-list package test suite.
+#
+name: Test Tools List
+
+on:
+  push:
+    paths:
+      - tools_list/**
+      - tests/**
+      - pyproject.toml
+      - .github/workflows/test-tools-list.yml
+  pull_request:
+    paths:
+      - tools_list/**
+      - tests/**
+      - pyproject.toml
+      - .github/workflows/test-tools-list.yml
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: test-tools-list
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v7
+        with:
+          enable-cache: false
+
+      - name: Set up Python
+        run: uv python install 3.14
+
+      - name: Lint
+        run: |
+          uv run ruff check tools_list tests
+          uv run ruff format --check tools_list tests
+
+      - name: Run tests
+        run: uv run pytest
