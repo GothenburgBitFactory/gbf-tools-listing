@@ -1045,25 +1045,6 @@
     "category": [
       "timewarrior"
     ],
-    "description": "Time tracking tool, written is Rust, with a  cli and a nice user interface (in Ratatui). Strongly inspired by Timewarrior and with the same data format.",
-    "dormant": false,
-    "language": [
-      "Rust"
-    ],
-    "license": "MIT License",
-    "name": "timew-rs",
-    "owner": [
-      "chnoack"
-    ],
-    "rating": 0,
-    "updated": "2026-11-20",
-    "url": "https://github.com/chnoack/timew-rs"
-  },
-  {
-    "archived": false,
-    "category": [
-      "timewarrior"
-    ],
     "description": "Pomodoro session runner with pomw + Taskwarrior + Timewarrior integration",
     "dormant": false,
     "language": [
@@ -1853,7 +1834,7 @@
     "owner": [
       "kgoettler"
     ],
-    "rating": 17,
+    "rating": 18,
     "updated": "2026-09-27",
     "url": "https://github.com/kgoettler/twe"
   },
@@ -3051,7 +3032,7 @@
       "tobixen"
     ],
     "rating": 1,
-    "updated": "2026-10-01",
+    "updated": "2026-11-21",
     "url": "https://github.com/tobixen/timewarrior-tools"
   },
   {
