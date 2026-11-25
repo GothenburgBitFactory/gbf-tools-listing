@@ -1275,7 +1275,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 97,
+    "rating": 98,
     "updated": "2024-05-26",
     "url": "https://github.com/GothenburgBitFactory/taskshell"
   },
@@ -1834,7 +1834,7 @@
     "owner": [
       "Miuler"
     ],
-    "rating": 1,
+    "rating": 0,
     "updated": "2026-07-31",
     "url": "https://github.com/Miuler/taskwarrior_hooks"
   },
@@ -4298,7 +4298,7 @@
       "brokenpip3"
     ],
     "rating": 71,
-    "updated": "2026-11-23",
+    "updated": "2026-11-24",
     "url": "https://github.com/brokenpip3/fatto"
   },
   {
@@ -4358,7 +4358,7 @@
       "brzzdev"
     ],
     "rating": 0,
-    "updated": "2026-11-21",
+    "updated": "2026-11-25",
     "url": "https://github.com/brzzdev/SimpleTaskwarrior"
   },
   {
@@ -4578,7 +4578,7 @@
       "catanadj"
     ],
     "rating": 32,
-    "updated": "2026-11-18",
+    "updated": "2026-11-25",
     "url": "https://github.com/catanadj/taskwarrior-nautical"
   },
   {
@@ -6525,6 +6525,26 @@
       "taskserver",
       "taskwarrior2"
     ],
+    "description": "Yet another Taskwarrior time-tracker",
+    "dormant": true,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT License",
+    "name": "yatwtt",
+    "owner": [
+      "fmeynadier"
+    ],
+    "rating": 1,
+    "updated": "2016-02-11",
+    "url": "https://github.com/fmeynadier/yatwtt"
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskserver",
+      "taskwarrior2"
+    ],
     "description": null,
     "dormant": true,
     "language": [
@@ -7864,46 +7884,6 @@
       "taskserver",
       "taskwarrior2"
     ],
-    "description": "Alfred extension for integration with Taskwarrior",
-    "dormant": true,
-    "language": [
-      "N/A"
-    ],
-    "license": null,
-    "name": "AlfredTaskwarrior",
-    "owner": [
-      "jbarratt"
-    ],
-    "rating": 9,
-    "updated": "2012-09-06",
-    "url": "https://github.com/jbarratt/AlfredTaskwarrior"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
-    "description": "Tool to migrate from Trello to Taskwarrior",
-    "dormant": true,
-    "language": [
-      "Python"
-    ],
-    "license": null,
-    "name": "trello_to_task",
-    "owner": [
-      "jbarratt"
-    ],
-    "rating": 11,
-    "updated": "2021-08-28",
-    "url": "https://github.com/jbarratt/trello_to_task"
-  },
-  {
-    "archived": false,
-    "category": [
-      "taskserver",
-      "taskwarrior2"
-    ],
     "description": "Syncs taskwarrior with your Todoist account",
     "dormant": true,
     "language": [
@@ -8658,7 +8638,7 @@
       "kantord"
     ],
     "rating": 233,
-    "updated": "2026-11-22",
+    "updated": "2026-11-25",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -9478,7 +9458,7 @@
       "linuxcaffe"
     ],
     "rating": 1,
-    "updated": "2026-11-12",
+    "updated": "2026-11-25",
     "url": "https://github.com/linuxcaffe/awesome-taskwarrior"
   },
   {
@@ -9858,7 +9838,7 @@
       "maralorn"
     ],
     "rating": 18,
-    "updated": "2026-07-02",
+    "updated": "2026-11-25",
     "url": "https://github.com/maralorn/haskell-taskwarrior"
   },
   {
@@ -11277,6 +11257,26 @@
     "rating": 17,
     "updated": "2021-04-30",
     "url": "https://github.com/nerab/twmail"
+  },
+  {
+    "archived": true,
+    "category": [
+      "taskwarrior2",
+      "taskwarrior3"
+    ],
+    "description": "Helpers for writing TaskWarrior tests in Ruby",
+    "dormant": true,
+    "language": [
+      "Ruby"
+    ],
+    "license": "MIT License",
+    "name": "twtest",
+    "owner": [
+      "nerab"
+    ],
+    "rating": 0,
+    "updated": "2021-04-30",
+    "url": "https://github.com/nerab/twtest"
   },
   {
     "archived": false,
@@ -14112,7 +14112,7 @@
     "owner": [
       "tmahmood"
     ],
-    "rating": 210,
+    "rating": 211,
     "updated": "2026-11-23",
     "url": "https://github.com/tmahmood/taskwarrior-web"
   },
@@ -14533,7 +14533,7 @@
       "uroybd"
     ],
     "rating": 4,
-    "updated": "2026-11-23",
+    "updated": "2026-11-24",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
