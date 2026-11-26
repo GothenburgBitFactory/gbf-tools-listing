@@ -118,7 +118,7 @@
       "00sapo"
     ],
     "rating": 2,
-    "updated": "2026-11-23",
+    "updated": "2026-11-25",
     "url": "https://github.com/00sapo/taskwarrior-appimage"
   },
   {
@@ -757,7 +757,7 @@
     "owner": [
       "DCsunset"
     ],
-    "rating": 258,
+    "rating": 259,
     "updated": "2026-11-04",
     "url": "https://github.com/DCsunset/taskwarrior-webui"
   },
@@ -1255,7 +1255,7 @@
     "owner": [
       "GothenburgBitFactory"
     ],
-    "rating": 159,
+    "rating": 160,
     "updated": "2024-07-28",
     "url": "https://github.com/GothenburgBitFactory/tasklib"
   },
@@ -5276,7 +5276,7 @@
       "conda-forge"
     ],
     "rating": 0,
-    "updated": "2026-08-18",
+    "updated": "2026-11-25",
     "url": "https://github.com/conda-forge/taskwarrior-feedstock"
   },
   {
@@ -8638,7 +8638,7 @@
       "kantord"
     ],
     "rating": 233,
-    "updated": "2026-11-25",
+    "updated": "2026-11-26",
     "url": "https://github.com/kantord/blogtato"
   },
   {
@@ -8697,7 +8697,7 @@
     "owner": [
       "kdheepak"
     ],
-    "rating": 2158,
+    "rating": 2161,
     "updated": "2026-11-22",
     "url": "https://github.com/kdheepak/taskwarrior-tui"
   },
@@ -9218,7 +9218,7 @@
       "lbesnard"
     ],
     "rating": 23,
-    "updated": "2026-11-19",
+    "updated": "2026-11-26",
     "url": "https://github.com/lbesnard/task-tui"
   },
   {
@@ -14012,7 +14012,7 @@
     "owner": [
       "theunraveler"
     ],
-    "rating": 564,
+    "rating": 565,
     "updated": "2019-09-09",
     "url": "https://github.com/theunraveler/taskwarrior-web"
   },
@@ -14533,7 +14533,7 @@
       "uroybd"
     ],
     "rating": 4,
-    "updated": "2026-11-24",
+    "updated": "2026-11-26",
     "url": "https://github.com/uroybd/Meghnaad"
   },
   {
