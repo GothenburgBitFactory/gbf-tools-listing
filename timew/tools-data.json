@@ -1463,6 +1463,25 @@
     "category": [
       "timewarrior"
     ],
+    "description": null,
+    "dormant": false,
+    "language": [
+      "N/A"
+    ],
+    "license": null,
+    "name": "taskwarrior-timewarrior-cli-gtd-hooks-81512",
+    "owner": [
+      "fluxnode554"
+    ],
+    "rating": 0,
+    "updated": "2026-11-27",
+    "url": "https://github.com/fluxnode554/taskwarrior-timewarrior-cli-gtd-hooks-81512"
+  },
+  {
+    "archived": false,
+    "category": [
+      "timewarrior"
+    ],
     "description": "A command line tool to enhance TimeWarrior's functionalities.",
     "dormant": true,
     "language": [
@@ -3013,7 +3032,7 @@
       "tobixen"
     ],
     "rating": 0,
-    "updated": "2026-11-25",
+    "updated": "2026-11-27",
     "url": "https://github.com/tobixen/aw-export-timewarrior"
   },
   {
