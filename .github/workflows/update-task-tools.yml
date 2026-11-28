@@ -1,4 +1,4 @@
-# Update the Taskwarrior tools listing.
+# Update the Taskwarrior tools listing and purge its blacklist.
 #
 name: Update Taskwarrior Tools
 
@@ -30,14 +30,37 @@ jobs:
       - name: Set up Python
         run: uv python install 3.14
 
+      - name: Purge blacklist
+        continue-on-error: true
+        run: |
+          uv run tools-list purge task
+
+      - name: Commit and push changes (blacklist)
+        run: |
+          git config user.name "GBF Tools Bot"
+          git config user.email "gbf-tools-bot@users.noreply.github.com"
+          git add task/blacklist.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update task/blacklist.json"
+          for i in 1 2 3; do
+            git push origin main && exit 0
+            git pull --rebase origin main
+            sleep 10
+          done
+          echo "Could not push changes to repository!"
+          exit 1
+
       - name: Update tools
         env:
           GITHUB_API_KEY: ${{ secrets.GITHUB_TOKEN }}
           LOG_LEVEL: INFO
         run: |
-          uv run bin/update.py task
+          uv run tools-list update task
 
-      - name: Commit and push changes
+      - name: Commit and push changes (tools-data)
         run: |
           git config user.name "GBF Tools Bot"
           git config user.email "gbf-tools-bot@users.noreply.github.com"

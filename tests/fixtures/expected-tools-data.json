@@ -1,0 +1,45 @@
+[
+  {
+    "description": "A tool without repository",
+    "name": "Manual Tool",
+    "url": null
+  },
+  {
+    "archived": false,
+    "category": [
+      "taskwarrior3"
+    ],
+    "description": "A good tool",
+    "dormant": false,
+    "language": [
+      "Python"
+    ],
+    "license": "MIT",
+    "name": "good",
+    "owner": [
+      "owner"
+    ],
+    "rating": 10,
+    "updated": "2026-01-01",
+    "url": "https://github.com/owner/good"
+  },
+  {
+    "archived": true,
+    "category": [
+      "taskwarrior3"
+    ],
+    "description": "A dormant tool",
+    "dormant": true,
+    "language": [
+      "N/A"
+    ],
+    "license": null,
+    "name": "searched",
+    "owner": [
+      "owner"
+    ],
+    "rating": 42,
+    "updated": "2020-03-03",
+    "url": "https://github.com/owner/searched"
+  }
+]
